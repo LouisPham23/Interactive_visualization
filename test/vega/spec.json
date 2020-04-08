@@ -5,7 +5,7 @@
     "color": "#f304d3"
   },
   "data": {
-    "url": "states-vega.csv",
+    "url": "states-vega2.csv",
     "format": {
       "type": "csv"
     }

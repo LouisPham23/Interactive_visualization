@@ -1,0 +1,1663 @@
+date,state,cases,deaths
+3/13/20,Alabama,6,0
+3/14/20,Alabama,12,0
+3/15/20,Alabama,23,0
+3/16/20,Alabama,29,0
+3/17/20,Alabama,39,0
+3/18/20,Alabama,51,0
+3/19/20,Alabama,78,0
+3/20/20,Alabama,106,0
+3/21/20,Alabama,131,0
+3/22/20,Alabama,157,0
+3/23/20,Alabama,196,0
+3/24/20,Alabama,242,0
+3/25/20,Alabama,386,1
+3/26/20,Alabama,538,3
+3/27/20,Alabama,639,4
+3/28/20,Alabama,720,4
+3/29/20,Alabama,830,5
+3/30/20,Alabama,947,11
+3/31/20,Alabama,999,13
+4/1/20,Alabama,1106,28
+4/2/20,Alabama,1270,32
+4/3/20,Alabama,1535,38
+4/4/20,Alabama,1633,44
+4/5/20,Alabama,1841,45
+4/6/20,Alabama,2006,53
+3/12/20,Alaska,1,0
+3/13/20,Alaska,1,0
+3/14/20,Alaska,1,0
+3/15/20,Alaska,1,0
+3/16/20,Alaska,3,0
+3/17/20,Alaska,6,0
+3/18/20,Alaska,9,0
+3/19/20,Alaska,12,0
+3/20/20,Alaska,14,0
+3/21/20,Alaska,21,0
+3/22/20,Alaska,22,0
+3/23/20,Alaska,36,0
+3/24/20,Alaska,42,0
+3/25/20,Alaska,59,0
+3/26/20,Alaska,69,0
+3/27/20,Alaska,85,1
+3/28/20,Alaska,102,1
+3/29/20,Alaska,114,1
+3/30/20,Alaska,119,2
+3/31/20,Alaska,133,2
+4/1/20,Alaska,143,2
+4/2/20,Alaska,146,2
+4/3/20,Alaska,156,2
+4/4/20,Alaska,169,3
+4/5/20,Alaska,185,4
+4/6/20,Alaska,189,4
+3/1/20,Arizona,1,0
+3/2/20,Arizona,1,0
+3/3/20,Arizona,2,0
+3/4/20,Arizona,2,0
+3/5/20,Arizona,2,0
+3/6/20,Arizona,3,0
+3/7/20,Arizona,5,0
+3/8/20,Arizona,5,0
+3/9/20,Arizona,6,0
+3/10/20,Arizona,6,0
+3/11/20,Arizona,9,0
+3/12/20,Arizona,9,0
+3/13/20,Arizona,9,0
+3/14/20,Arizona,12,0
+3/15/20,Arizona,13,0
+3/16/20,Arizona,18,0
+3/17/20,Arizona,20,0
+3/18/20,Arizona,28,0
+3/19/20,Arizona,47,0
+3/20/20,Arizona,70,1
+3/21/20,Arizona,104,1
+3/22/20,Arizona,153,2
+3/23/20,Arizona,234,2
+3/24/20,Arizona,326,6
+3/25/20,Arizona,402,6
+3/26/20,Arizona,508,8
+3/27/20,Arizona,665,15
+3/28/20,Arizona,773,15
+3/29/20,Arizona,929,18
+3/30/20,Arizona,1169,20
+3/31/20,Arizona,1298,24
+4/1/20,Arizona,1413,29
+4/2/20,Arizona,1600,35
+4/3/20,Arizona,1769,41
+4/4/20,Arizona,2019,53
+4/5/20,Arizona,2269,64
+4/6/20,Arizona,2465,67
+3/11/20,Arkansas,1,0
+3/12/20,Arkansas,6,0
+3/13/20,Arkansas,7,0
+3/14/20,Arkansas,9,0
+3/15/20,Arkansas,16,0
+3/16/20,Arkansas,22,0
+3/17/20,Arkansas,22,0
+3/18/20,Arkansas,33,0
+3/19/20,Arkansas,62,0
+3/20/20,Arkansas,100,0
+3/21/20,Arkansas,118,0
+3/22/20,Arkansas,165,0
+3/23/20,Arkansas,201,0
+3/24/20,Arkansas,232,2
+3/25/20,Arkansas,308,2
+3/26/20,Arkansas,351,3
+3/27/20,Arkansas,386,3
+3/28/20,Arkansas,409,5
+3/29/20,Arkansas,449,6
+3/30/20,Arkansas,508,7
+3/31/20,Arkansas,564,8
+4/1/20,Arkansas,624,10
+4/2/20,Arkansas,683,12
+4/3/20,Arkansas,738,12
+4/4/20,Arkansas,743,14
+4/5/20,Arkansas,853,16
+4/6/20,Arkansas,927,16
+3/1/20,California,33,0
+3/2/20,California,38,0
+3/3/20,California,45,0
+3/4/20,California,55,1
+3/5/20,California,67,1
+3/6/20,California,81,1
+3/7/20,California,100,1
+3/8/20,California,112,1
+3/9/20,California,172,2
+3/10/20,California,179,3
+3/11/20,California,202,4
+3/12/20,California,252,4
+3/13/20,California,320,5
+3/14/20,California,381,5
+3/15/20,California,478,6
+3/16/20,California,588,11
+3/17/20,California,732,14
+3/18/20,California,893,17
+3/19/20,California,1067,19
+3/20/20,California,1283,24
+3/21/20,California,1544,28
+3/22/20,California,1851,35
+3/23/20,California,2240,39
+3/24/20,California,2644,52
+3/25/20,California,3183,67
+3/26/20,California,4060,82
+3/27/20,California,4914,102
+3/28/20,California,5565,121
+3/29/20,California,6266,130
+3/30/20,California,7421,146
+3/31/20,California,8582,183
+4/1/20,California,9816,212
+4/2/20,California,11190,247
+4/3/20,California,12569,282
+4/4/20,California,13796,323
+4/5/20,California,15076,349
+4/6/20,California,16284,386
+3/5/20,Colorado,2,0
+3/6/20,Colorado,8,0
+3/7/20,Colorado,8,0
+3/8/20,Colorado,8,0
+3/9/20,Colorado,12,0
+3/10/20,Colorado,17,0
+3/11/20,Colorado,34,0
+3/12/20,Colorado,49,1
+3/13/20,Colorado,78,2
+3/14/20,Colorado,103,2
+3/15/20,Colorado,136,2
+3/16/20,Colorado,161,2
+3/17/20,Colorado,183,3
+3/18/20,Colorado,216,3
+3/19/20,Colorado,278,5
+3/20/20,Colorado,364,5
+3/21/20,Colorado,475,6
+3/22/20,Colorado,591,7
+3/23/20,Colorado,721,10
+3/24/20,Colorado,912,11
+3/25/20,Colorado,1086,19
+3/26/20,Colorado,1432,24
+3/27/20,Colorado,1735,31
+3/28/20,Colorado,2061,44
+3/29/20,Colorado,2315,47
+3/30/20,Colorado,2628,51
+3/31/20,Colorado,2990,69
+4/1/20,Colorado,3346,80
+4/2/20,Colorado,3728,96
+4/3/20,Colorado,4182,110
+4/4/20,Colorado,4574,126
+4/5/20,Colorado,4950,140
+4/6/20,Colorado,5172,150
+3/8/20,Connecticut,1,0
+3/9/20,Connecticut,2,0
+3/10/20,Connecticut,2,0
+3/11/20,Connecticut,3,0
+3/12/20,Connecticut,6,0
+3/13/20,Connecticut,11,0
+3/14/20,Connecticut,20,0
+3/15/20,Connecticut,26,0
+3/16/20,Connecticut,41,0
+3/17/20,Connecticut,68,0
+3/18/20,Connecticut,96,1
+3/19/20,Connecticut,159,4
+3/20/20,Connecticut,194,4
+3/21/20,Connecticut,223,5
+3/22/20,Connecticut,327,8
+3/23/20,Connecticut,415,10
+3/24/20,Connecticut,618,12
+3/25/20,Connecticut,875,19
+3/26/20,Connecticut,1012,21
+3/27/20,Connecticut,1291,27
+3/28/20,Connecticut,1524,33
+3/29/20,Connecticut,1993,34
+3/30/20,Connecticut,2571,36
+3/31/20,Connecticut,3128,69
+4/1/20,Connecticut,3557,85
+4/2/20,Connecticut,3824,112
+4/3/20,Connecticut,4915,132
+4/4/20,Connecticut,5276,165
+4/5/20,Connecticut,5675,189
+4/6/20,Connecticut,6906,206
+3/11/20,Delaware,1,0
+3/12/20,Delaware,4,0
+3/13/20,Delaware,4,0
+3/14/20,Delaware,4,0
+3/15/20,Delaware,7,0
+3/16/20,Delaware,8,0
+3/17/20,Delaware,16,0
+3/18/20,Delaware,26,0
+3/19/20,Delaware,30,0
+3/20/20,Delaware,39,0
+3/21/20,Delaware,45,0
+3/22/20,Delaware,56,0
+3/23/20,Delaware,87,0
+3/24/20,Delaware,104,0
+3/25/20,Delaware,119,0
+3/26/20,Delaware,143,1
+3/27/20,Delaware,165,2
+3/28/20,Delaware,214,5
+3/29/20,Delaware,232,6
+3/30/20,Delaware,264,7
+3/31/20,Delaware,319,10
+4/1/20,Delaware,368,11
+4/2/20,Delaware,393,12
+4/3/20,Delaware,450,14
+4/4/20,Delaware,593,14
+4/5/20,Delaware,673,14
+4/6/20,Delaware,783,15
+3/7/20,District of Columbia,1,0
+3/8/20,District of Columbia,1,0
+3/9/20,District of Columbia,4,0
+3/10/20,District of Columbia,4,0
+3/11/20,District of Columbia,10,0
+3/12/20,District of Columbia,10,0
+3/13/20,District of Columbia,10,0
+3/14/20,District of Columbia,16,0
+3/15/20,District of Columbia,17,0
+3/16/20,District of Columbia,22,0
+3/17/20,District of Columbia,31,0
+3/18/20,District of Columbia,36,0
+3/19/20,District of Columbia,68,0
+3/20/20,District of Columbia,77,1
+3/21/20,District of Columbia,98,1
+3/22/20,District of Columbia,116,2
+3/23/20,District of Columbia,138,2
+3/24/20,District of Columbia,183,2
+3/25/20,District of Columbia,231,3
+3/26/20,District of Columbia,267,3
+3/27/20,District of Columbia,304,4
+3/28/20,District of Columbia,342,4
+3/29/20,District of Columbia,342,4
+3/30/20,District of Columbia,495,9
+3/31/20,District of Columbia,495,9
+4/1/20,District of Columbia,586,11
+4/2/20,District of Columbia,653,12
+4/3/20,District of Columbia,757,15
+4/4/20,District of Columbia,902,21
+4/5/20,District of Columbia,998,22
+4/6/20,District of Columbia,1097,24
+3/1/20,Florida,2,0
+3/2/20,Florida,2,0
+3/3/20,Florida,3,0
+3/4/20,Florida,3,0
+3/5/20,Florida,4,0
+3/6/20,Florida,7,2
+3/7/20,Florida,12,2
+3/8/20,Florida,13,2
+3/9/20,Florida,14,2
+3/10/20,Florida,23,2
+3/11/20,Florida,26,2
+3/12/20,Florida,46,2
+3/13/20,Florida,70,2
+3/14/20,Florida,70,3
+3/15/20,Florida,109,3
+3/16/20,Florida,141,4
+3/17/20,Florida,210,6
+3/18/20,Florida,326,7
+3/19/20,Florida,434,8
+3/20/20,Florida,564,9
+3/21/20,Florida,764,11
+3/22/20,Florida,1000,13
+3/23/20,Florida,1222,18
+3/24/20,Florida,1467,19
+3/25/20,Florida,1965,23
+3/26/20,Florida,2477,29
+3/27/20,Florida,3198,46
+3/28/20,Florida,4038,56
+3/29/20,Florida,4942,59
+3/30/20,Florida,5694,71
+3/31/20,Florida,6741,85
+4/1/20,Florida,7765,100
+4/2/20,Florida,9000,144
+4/3/20,Florida,10260,169
+4/4/20,Florida,11537,194
+4/5/20,Florida,12342,220
+4/6/20,Florida,13621,253
+3/2/20,Georgia,2,0
+3/3/20,Georgia,2,0
+3/4/20,Georgia,2,0
+3/5/20,Georgia,2,0
+3/6/20,Georgia,3,0
+3/7/20,Georgia,7,0
+3/8/20,Georgia,11,0
+3/9/20,Georgia,17,0
+3/10/20,Georgia,22,0
+3/11/20,Georgia,31,0
+3/12/20,Georgia,31,1
+3/13/20,Georgia,41,1
+3/14/20,Georgia,65,1
+3/15/20,Georgia,97,1
+3/16/20,Georgia,118,1
+3/17/20,Georgia,142,1
+3/18/20,Georgia,193,3
+3/19/20,Georgia,282,10
+3/20/20,Georgia,482,14
+3/21/20,Georgia,552,20
+3/22/20,Georgia,620,25
+3/23/20,Georgia,800,25
+3/24/20,Georgia,1097,38
+3/25/20,Georgia,1387,47
+3/26/20,Georgia,1643,56
+3/27/20,Georgia,2198,64
+3/28/20,Georgia,2447,79
+3/29/20,Georgia,2683,83
+3/30/20,Georgia,3032,102
+3/31/20,Georgia,4117,125
+4/1/20,Georgia,4748,154
+4/2/20,Georgia,5444,176
+4/3/20,Georgia,5967,198
+4/4/20,Georgia,6383,208
+4/5/20,Georgia,6742,219
+4/6/20,Georgia,7558,294
+3/15/20,Guam,3,0
+3/16/20,Guam,3,0
+3/17/20,Guam,3,0
+3/18/20,Guam,8,0
+3/19/20,Guam,12,0
+3/20/20,Guam,14,0
+3/21/20,Guam,15,0
+3/22/20,Guam,27,1
+3/23/20,Guam,29,1
+3/24/20,Guam,32,1
+3/25/20,Guam,32,1
+3/26/20,Guam,49,1
+3/27/20,Guam,53,1
+3/28/20,Guam,57,1
+3/29/20,Guam,58,1
+3/30/20,Guam,60,1
+3/31/20,Guam,139,2
+4/1/20,Guam,147,3
+4/2/20,Guam,152,3
+4/3/20,Guam,154,4
+4/4/20,Guam,223,4
+4/5/20,Guam,265,4
+4/6/20,Guam,266,4
+3/6/20,Hawaii,1,0
+3/7/20,Hawaii,1,0
+3/8/20,Hawaii,2,0
+3/9/20,Hawaii,2,0
+3/10/20,Hawaii,2,0
+3/11/20,Hawaii,2,0
+3/12/20,Hawaii,2,0
+3/13/20,Hawaii,2,0
+3/14/20,Hawaii,4,0
+3/15/20,Hawaii,7,0
+3/16/20,Hawaii,10,0
+3/17/20,Hawaii,14,0
+3/18/20,Hawaii,16,0
+3/19/20,Hawaii,26,0
+3/20/20,Hawaii,37,0
+3/21/20,Hawaii,48,0
+3/22/20,Hawaii,56,0
+3/23/20,Hawaii,77,0
+3/24/20,Hawaii,90,0
+3/25/20,Hawaii,95,0
+3/26/20,Hawaii,106,0
+3/27/20,Hawaii,120,0
+3/28/20,Hawaii,151,0
+3/29/20,Hawaii,175,0
+3/30/20,Hawaii,204,0
+3/31/20,Hawaii,224,1
+4/1/20,Hawaii,258,1
+4/2/20,Hawaii,283,2
+4/3/20,Hawaii,317,3
+4/4/20,Hawaii,349,3
+4/5/20,Hawaii,369,4
+4/6/20,Hawaii,385,5
+3/13/20,Idaho,1,0
+3/14/20,Idaho,5,0
+3/15/20,Idaho,5,0
+3/16/20,Idaho,5,0
+3/17/20,Idaho,9,0
+3/18/20,Idaho,11,0
+3/19/20,Idaho,23,0
+3/20/20,Idaho,31,0
+3/21/20,Idaho,42,0
+3/22/20,Idaho,47,0
+3/23/20,Idaho,50,0
+3/24/20,Idaho,73,0
+3/25/20,Idaho,123,0
+3/26/20,Idaho,189,3
+3/27/20,Idaho,231,4
+3/28/20,Idaho,261,5
+3/29/20,Idaho,310,6
+3/30/20,Idaho,415,7
+3/31/20,Idaho,526,9
+4/1/20,Idaho,669,9
+4/2/20,Idaho,891,9
+4/3/20,Idaho,1013,10
+4/4/20,Idaho,1077,10
+4/5/20,Idaho,1101,10
+4/6/20,Idaho,1170,13
+3/1/20,Illinois,3,0
+3/2/20,Illinois,4,0
+3/3/20,Illinois,4,0
+3/4/20,Illinois,4,0
+3/5/20,Illinois,5,0
+3/6/20,Illinois,6,0
+3/7/20,Illinois,6,0
+3/8/20,Illinois,7,0
+3/9/20,Illinois,11,0
+3/10/20,Illinois,19,0
+3/11/20,Illinois,25,0
+3/12/20,Illinois,32,0
+3/13/20,Illinois,46,0
+3/14/20,Illinois,66,0
+3/15/20,Illinois,94,0
+3/16/20,Illinois,104,0
+3/17/20,Illinois,159,1
+3/18/20,Illinois,286,1
+3/19/20,Illinois,420,4
+3/20/20,Illinois,583,5
+3/21/20,Illinois,751,6
+3/22/20,Illinois,1047,9
+3/23/20,Illinois,1285,12
+3/24/20,Illinois,1535,16
+3/25/20,Illinois,1875,21
+3/26/20,Illinois,2538,26
+3/27/20,Illinois,3029,37
+3/28/20,Illinois,3547,50
+3/29/20,Illinois,4613,70
+3/30/20,Illinois,5070,84
+3/31/20,Illinois,5994,107
+4/1/20,Illinois,6980,146
+4/2/20,Illinois,7695,165
+4/3/20,Illinois,8904,211
+4/4/20,Illinois,10357,248
+4/5/20,Illinois,11276,282
+4/6/20,Illinois,12262,309
+3/6/20,Indiana,1,0
+3/7/20,Indiana,1,0
+3/8/20,Indiana,2,0
+3/9/20,Indiana,4,0
+3/10/20,Indiana,6,0
+3/11/20,Indiana,11,0
+3/12/20,Indiana,12,0
+3/13/20,Indiana,12,0
+3/14/20,Indiana,15,0
+3/15/20,Indiana,19,0
+3/16/20,Indiana,24,1
+3/17/20,Indiana,30,2
+3/18/20,Indiana,39,2
+3/19/20,Indiana,56,2
+3/20/20,Indiana,79,3
+3/21/20,Indiana,126,4
+3/22/20,Indiana,201,6
+3/23/20,Indiana,259,7
+3/24/20,Indiana,366,12
+3/25/20,Indiana,479,14
+3/26/20,Indiana,656,18
+3/27/20,Indiana,982,26
+3/28/20,Indiana,1232,31
+3/29/20,Indiana,1514,32
+3/30/20,Indiana,1788,35
+3/31/20,Indiana,2159,50
+4/1/20,Indiana,2565,65
+4/2/20,Indiana,3039,78
+4/3/20,Indiana,3437,102
+4/4/20,Indiana,3953,116
+4/5/20,Indiana,4411,127
+4/6/20,Indiana,4956,141
+3/8/20,Iowa,3,0
+3/9/20,Iowa,8,0
+3/10/20,Iowa,13,0
+3/11/20,Iowa,14,0
+3/12/20,Iowa,16,0
+3/13/20,Iowa,17,0
+3/14/20,Iowa,18,0
+3/15/20,Iowa,22,0
+3/16/20,Iowa,22,0
+3/17/20,Iowa,29,0
+3/18/20,Iowa,38,0
+3/19/20,Iowa,44,0
+3/20/20,Iowa,45,0
+3/21/20,Iowa,68,0
+3/22/20,Iowa,90,0
+3/23/20,Iowa,105,0
+3/24/20,Iowa,124,1
+3/25/20,Iowa,145,1
+3/26/20,Iowa,179,1
+3/27/20,Iowa,235,3
+3/28/20,Iowa,298,3
+3/29/20,Iowa,336,4
+3/30/20,Iowa,424,6
+3/31/20,Iowa,498,7
+4/1/20,Iowa,549,9
+4/2/20,Iowa,614,11
+4/3/20,Iowa,699,11
+4/4/20,Iowa,786,11
+4/5/20,Iowa,868,22
+4/6/20,Iowa,946,25
+3/7/20,Kansas,1,0
+3/8/20,Kansas,1,0
+3/9/20,Kansas,1,0
+3/10/20,Kansas,1,0
+3/11/20,Kansas,1,0
+3/12/20,Kansas,5,1
+3/13/20,Kansas,6,1
+3/14/20,Kansas,8,1
+3/15/20,Kansas,9,1
+3/16/20,Kansas,11,1
+3/17/20,Kansas,17,1
+3/18/20,Kansas,22,1
+3/19/20,Kansas,35,1
+3/20/20,Kansas,49,1
+3/21/20,Kansas,57,2
+3/22/20,Kansas,66,2
+3/23/20,Kansas,82,2
+3/24/20,Kansas,99,3
+3/25/20,Kansas,132,3
+3/26/20,Kansas,171,3
+3/27/20,Kansas,212,4
+3/28/20,Kansas,271,6
+3/29/20,Kansas,332,7
+3/30/20,Kansas,373,9
+3/31/20,Kansas,434,10
+4/1/20,Kansas,488,11
+4/2/20,Kansas,554,14
+4/3/20,Kansas,624,19
+4/4/20,Kansas,701,21
+4/5/20,Kansas,763,23
+4/6/20,Kansas,853,25
+3/6/20,Kentucky,1,0
+3/7/20,Kentucky,1,0
+3/8/20,Kentucky,4,0
+3/9/20,Kentucky,5,0
+3/10/20,Kentucky,7,0
+3/11/20,Kentucky,7,0
+3/12/20,Kentucky,11,0
+3/13/20,Kentucky,11,0
+3/14/20,Kentucky,18,0
+3/15/20,Kentucky,21,0
+3/16/20,Kentucky,22,1
+3/17/20,Kentucky,26,1
+3/18/20,Kentucky,35,1
+3/19/20,Kentucky,47,2
+3/20/20,Kentucky,63,2
+3/21/20,Kentucky,84,3
+3/22/20,Kentucky,103,3
+3/23/20,Kentucky,124,3
+3/24/20,Kentucky,157,3
+3/25/20,Kentucky,198,5
+3/26/20,Kentucky,248,5
+3/27/20,Kentucky,302,8
+3/28/20,Kentucky,394,9
+3/29/20,Kentucky,439,9
+3/30/20,Kentucky,480,11
+3/31/20,Kentucky,590,18
+4/1/20,Kentucky,682,20
+4/2/20,Kentucky,755,34
+4/3/20,Kentucky,770,34
+4/4/20,Kentucky,917,40
+4/5/20,Kentucky,1048,44
+4/6/20,Kentucky,1057,52
+3/9/20,Louisiana,1,0
+3/10/20,Louisiana,6,0
+3/11/20,Louisiana,13,0
+3/12/20,Louisiana,14,0
+3/13/20,Louisiana,36,0
+3/14/20,Louisiana,77,1
+3/15/20,Louisiana,103,2
+3/16/20,Louisiana,137,3
+3/17/20,Louisiana,196,5
+3/18/20,Louisiana,280,7
+3/19/20,Louisiana,392,10
+3/20/20,Louisiana,537,10
+3/21/20,Louisiana,763,16
+3/22/20,Louisiana,837,20
+3/23/20,Louisiana,1172,34
+3/24/20,Louisiana,1388,46
+3/25/20,Louisiana,1795,65
+3/26/20,Louisiana,2305,83
+3/27/20,Louisiana,2746,119
+3/28/20,Louisiana,3315,137
+3/29/20,Louisiana,3540,152
+3/30/20,Louisiana,4025,186
+3/31/20,Louisiana,5237,240
+4/1/20,Louisiana,6424,273
+4/2/20,Louisiana,9150,310
+4/3/20,Louisiana,10297,370
+4/4/20,Louisiana,12496,412
+4/5/20,Louisiana,13010,477
+4/6/20,Louisiana,14867,512
+3/12/20,Maine,1,0
+3/13/20,Maine,2,0
+3/14/20,Maine,3,0
+3/15/20,Maine,12,0
+3/16/20,Maine,17,0
+3/17/20,Maine,32,0
+3/18/20,Maine,43,0
+3/19/20,Maine,52,0
+3/20/20,Maine,57,0
+3/21/20,Maine,70,0
+3/22/20,Maine,89,0
+3/23/20,Maine,107,0
+3/24/20,Maine,118,0
+3/25/20,Maine,142,0
+3/26/20,Maine,155,0
+3/27/20,Maine,168,1
+3/28/20,Maine,211,1
+3/29/20,Maine,253,3
+3/30/20,Maine,275,3
+3/31/20,Maine,303,5
+4/1/20,Maine,344,7
+4/2/20,Maine,376,7
+4/3/20,Maine,432,9
+4/4/20,Maine,456,10
+4/5/20,Maine,470,10
+4/6/20,Maine,499,10
+3/5/20,Maryland,3,0
+3/6/20,Maryland,3,0
+3/7/20,Maryland,3,0
+3/8/20,Maryland,5,0
+3/9/20,Maryland,6,0
+3/10/20,Maryland,9,0
+3/11/20,Maryland,13,0
+3/12/20,Maryland,13,0
+3/13/20,Maryland,18,0
+3/14/20,Maryland,27,0
+3/15/20,Maryland,32,0
+3/16/20,Maryland,39,0
+3/17/20,Maryland,57,0
+3/18/20,Maryland,85,1
+3/19/20,Maryland,108,1
+3/20/20,Maryland,150,2
+3/21/20,Maryland,195,3
+3/22/20,Maryland,245,3
+3/23/20,Maryland,290,3
+3/24/20,Maryland,349,4
+3/25/20,Maryland,423,4
+3/26/20,Maryland,581,4
+3/27/20,Maryland,775,5
+3/28/20,Maryland,1066,10
+3/29/20,Maryland,1244,11
+3/30/20,Maryland,1414,15
+3/31/20,Maryland,1662,18
+4/1/20,Maryland,1985,33
+4/2/20,Maryland,2331,36
+4/3/20,Maryland,2758,42
+4/4/20,Maryland,3125,54
+4/5/20,Maryland,3609,68
+4/6/20,Maryland,4045,92
+3/1/20,Massachusetts,1,0
+3/2/20,Massachusetts,2,0
+3/3/20,Massachusetts,2,0
+3/4/20,Massachusetts,2,0
+3/5/20,Massachusetts,3,0
+3/6/20,Massachusetts,8,0
+3/7/20,Massachusetts,13,0
+3/8/20,Massachusetts,28,0
+3/9/20,Massachusetts,41,0
+3/10/20,Massachusetts,92,0
+3/11/20,Massachusetts,95,0
+3/12/20,Massachusetts,108,0
+3/13/20,Massachusetts,123,0
+3/14/20,Massachusetts,138,0
+3/15/20,Massachusetts,164,0
+3/16/20,Massachusetts,197,0
+3/17/20,Massachusetts,218,0
+3/18/20,Massachusetts,256,0
+3/19/20,Massachusetts,328,0
+3/20/20,Massachusetts,413,1
+3/21/20,Massachusetts,525,2
+3/22/20,Massachusetts,646,5
+3/23/20,Massachusetts,777,5
+3/24/20,Massachusetts,1159,11
+3/25/20,Massachusetts,1838,15
+3/26/20,Massachusetts,2417,25
+3/27/20,Massachusetts,3240,35
+3/28/20,Massachusetts,4257,44
+3/29/20,Massachusetts,4955,48
+3/30/20,Massachusetts,5752,61
+3/31/20,Massachusetts,6620,89
+4/1/20,Massachusetts,7738,122
+4/2/20,Massachusetts,8966,154
+4/3/20,Massachusetts,10402,192
+4/4/20,Massachusetts,11736,216
+4/5/20,Massachusetts,12500,231
+4/6/20,Massachusetts,13837,260
+3/10/20,Michigan,2,0
+3/11/20,Michigan,2,0
+3/12/20,Michigan,12,0
+3/13/20,Michigan,25,0
+3/14/20,Michigan,33,0
+3/15/20,Michigan,53,0
+3/16/20,Michigan,54,0
+3/17/20,Michigan,65,0
+3/18/20,Michigan,80,1
+3/19/20,Michigan,334,3
+3/20/20,Michigan,548,4
+3/21/20,Michigan,787,6
+3/22/20,Michigan,1033,9
+3/23/20,Michigan,1324,16
+3/24/20,Michigan,1791,24
+3/25/20,Michigan,2294,43
+3/26/20,Michigan,2878,63
+3/27/20,Michigan,3657,93
+3/28/20,Michigan,4635,111
+3/29/20,Michigan,5486,132
+3/30/20,Michigan,6508,197
+3/31/20,Michigan,7630,264
+4/1/20,Michigan,9293,336
+4/2/20,Michigan,10791,417
+4/3/20,Michigan,12670,478
+4/4/20,Michigan,14225,540
+4/5/20,Michigan,15635,616
+4/6/20,Michigan,17130,727
+3/6/20,Minnesota,1,0
+3/7/20,Minnesota,1,0
+3/8/20,Minnesota,2,0
+3/9/20,Minnesota,2,0
+3/10/20,Minnesota,3,0
+3/11/20,Minnesota,5,0
+3/12/20,Minnesota,9,0
+3/13/20,Minnesota,14,0
+3/14/20,Minnesota,21,0
+3/15/20,Minnesota,35,0
+3/16/20,Minnesota,54,0
+3/17/20,Minnesota,60,0
+3/18/20,Minnesota,77,0
+3/19/20,Minnesota,89,0
+3/20/20,Minnesota,115,0
+3/21/20,Minnesota,138,1
+3/22/20,Minnesota,171,1
+3/23/20,Minnesota,235,1
+3/24/20,Minnesota,262,1
+3/25/20,Minnesota,287,1
+3/26/20,Minnesota,346,2
+3/27/20,Minnesota,398,4
+3/28/20,Minnesota,441,5
+3/29/20,Minnesota,504,9
+3/30/20,Minnesota,576,10
+3/31/20,Minnesota,629,12
+4/1/20,Minnesota,689,17
+4/2/20,Minnesota,742,18
+4/3/20,Minnesota,789,22
+4/4/20,Minnesota,865,24
+4/5/20,Minnesota,935,29
+4/6/20,Minnesota,986,30
+3/11/20,Mississippi,1,0
+3/12/20,Mississippi,1,0
+3/13/20,Mississippi,6,0
+3/14/20,Mississippi,6,0
+3/15/20,Mississippi,10,0
+3/16/20,Mississippi,12,0
+3/17/20,Mississippi,21,0
+3/18/20,Mississippi,34,0
+3/19/20,Mississippi,50,1
+3/20/20,Mississippi,80,1
+3/21/20,Mississippi,140,1
+3/22/20,Mississippi,207,1
+3/23/20,Mississippi,249,1
+3/24/20,Mississippi,320,1
+3/25/20,Mississippi,377,5
+3/26/20,Mississippi,487,6
+3/27/20,Mississippi,579,8
+3/28/20,Mississippi,669,13
+3/29/20,Mississippi,759,14
+3/30/20,Mississippi,848,16
+3/31/20,Mississippi,937,20
+4/1/20,Mississippi,1073,22
+4/2/20,Mississippi,1177,26
+4/3/20,Mississippi,1358,29
+4/4/20,Mississippi,1455,35
+4/5/20,Mississippi,1638,43
+4/6/20,Mississippi,1738,51
+3/7/20,Missouri,1,0
+3/8/20,Missouri,1,0
+3/9/20,Missouri,1,0
+3/10/20,Missouri,1,0
+3/11/20,Missouri,1,0
+3/12/20,Missouri,2,0
+3/13/20,Missouri,4,0
+3/14/20,Missouri,5,0
+3/15/20,Missouri,5,0
+3/16/20,Missouri,9,0
+3/17/20,Missouri,16,0
+3/18/20,Missouri,21,1
+3/19/20,Missouri,35,1
+3/20/20,Missouri,73,3
+3/21/20,Missouri,93,3
+3/22/20,Missouri,130,3
+3/23/20,Missouri,183,4
+3/24/20,Missouri,255,5
+3/25/20,Missouri,377,8
+3/26/20,Missouri,507,8
+3/27/20,Missouri,671,9
+3/28/20,Missouri,838,10
+3/29/20,Missouri,903,12
+3/30/20,Missouri,1050,13
+3/31/20,Missouri,1351,15
+4/1/20,Missouri,1581,18
+4/2/20,Missouri,1834,24
+4/3/20,Missouri,2113,31
+4/4/20,Missouri,2291,44
+4/5/20,Missouri,2367,52
+4/6/20,Missouri,2722,56
+3/13/20,Montana,4,0
+3/14/20,Montana,6,0
+3/15/20,Montana,6,0
+3/16/20,Montana,8,0
+3/17/20,Montana,8,0
+3/18/20,Montana,12,0
+3/19/20,Montana,19,0
+3/20/20,Montana,19,0
+3/21/20,Montana,29,0
+3/22/20,Montana,34,0
+3/23/20,Montana,45,0
+3/24/20,Montana,51,0
+3/25/20,Montana,65,0
+3/26/20,Montana,90,0
+3/27/20,Montana,121,1
+3/28/20,Montana,147,1
+3/29/20,Montana,161,1
+3/30/20,Montana,177,4
+3/31/20,Montana,198,5
+4/1/20,Montana,217,5
+4/2/20,Montana,241,5
+4/3/20,Montana,262,5
+4/4/20,Montana,281,6
+4/5/20,Montana,298,6
+4/6/20,Montana,319,6
+3/1/20,Nebraska,13,0
+3/2/20,Nebraska,13,0
+3/3/20,Nebraska,13,0
+3/4/20,Nebraska,13,0
+3/5/20,Nebraska,13,0
+3/6/20,Nebraska,14,0
+3/7/20,Nebraska,14,0
+3/8/20,Nebraska,16,0
+3/9/20,Nebraska,16,0
+3/10/20,Nebraska,17,0
+3/11/20,Nebraska,23,0
+3/12/20,Nebraska,24,0
+3/13/20,Nebraska,27,0
+3/14/20,Nebraska,29,0
+3/15/20,Nebraska,31,0
+3/16/20,Nebraska,33,0
+3/17/20,Nebraska,36,0
+3/18/20,Nebraska,43,0
+3/19/20,Nebraska,47,0
+3/20/20,Nebraska,53,0
+3/21/20,Nebraska,61,0
+3/22/20,Nebraska,62,0
+3/23/20,Nebraska,73,0
+3/24/20,Nebraska,77,0
+3/25/20,Nebraska,84,0
+3/26/20,Nebraska,92,0
+3/27/20,Nebraska,100,2
+3/28/20,Nebraska,122,2
+3/29/20,Nebraska,137,2
+3/30/20,Nebraska,185,3
+3/31/20,Nebraska,193,4
+4/1/20,Nebraska,249,5
+4/2/20,Nebraska,273,6
+4/3/20,Nebraska,296,6
+4/4/20,Nebraska,339,8
+4/5/20,Nebraska,377,8
+4/6/20,Nebraska,438,10
+3/5/20,Nevada,2,0
+3/6/20,Nevada,2,0
+3/7/20,Nevada,2,0
+3/8/20,Nevada,4,0
+3/9/20,Nevada,4,0
+3/10/20,Nevada,4,0
+3/11/20,Nevada,7,0
+3/12/20,Nevada,11,0
+3/13/20,Nevada,19,0
+3/14/20,Nevada,21,0
+3/15/20,Nevada,26,0
+3/16/20,Nevada,45,1
+3/17/20,Nevada,55,1
+3/18/20,Nevada,82,1
+3/19/20,Nevada,99,1
+3/20/20,Nevada,165,2
+3/21/20,Nevada,165,2
+3/22/20,Nevada,190,2
+3/23/20,Nevada,265,4
+3/24/20,Nevada,315,6
+3/25/20,Nevada,405,10
+3/26/20,Nevada,535,10
+3/27/20,Nevada,621,10
+3/28/20,Nevada,738,14
+3/29/20,Nevada,920,15
+3/30/20,Nevada,1044,18
+3/31/20,Nevada,1113,26
+4/1/20,Nevada,1279,32
+4/2/20,Nevada,1458,38
+4/3/20,Nevada,1549,43
+4/4/20,Nevada,1758,46
+4/5/20,Nevada,1880,46
+4/6/20,Nevada,1971,58
+3/2/20,New Hampshire,1,0
+3/3/20,New Hampshire,2,0
+3/4/20,New Hampshire,2,0
+3/5/20,New Hampshire,2,0
+3/6/20,New Hampshire,2,0
+3/7/20,New Hampshire,4,0
+3/8/20,New Hampshire,4,0
+3/9/20,New Hampshire,4,0
+3/10/20,New Hampshire,5,0
+3/11/20,New Hampshire,5,0
+3/12/20,New Hampshire,6,0
+3/13/20,New Hampshire,7,0
+3/14/20,New Hampshire,7,0
+3/15/20,New Hampshire,13,0
+3/16/20,New Hampshire,17,0
+3/17/20,New Hampshire,26,0
+3/18/20,New Hampshire,39,0
+3/19/20,New Hampshire,44,0
+3/20/20,New Hampshire,55,0
+3/21/20,New Hampshire,65,0
+3/22/20,New Hampshire,78,0
+3/23/20,New Hampshire,101,1
+3/24/20,New Hampshire,108,1
+3/25/20,New Hampshire,137,1
+3/26/20,New Hampshire,158,1
+3/27/20,New Hampshire,187,2
+3/28/20,New Hampshire,214,2
+3/29/20,New Hampshire,258,3
+3/30/20,New Hampshire,314,3
+3/31/20,New Hampshire,367,3
+4/1/20,New Hampshire,415,4
+4/2/20,New Hampshire,479,5
+4/3/20,New Hampshire,540,7
+4/4/20,New Hampshire,621,9
+4/5/20,New Hampshire,669,9
+4/6/20,New Hampshire,715,9
+3/4/20,New Jersey,1,0
+3/5/20,New Jersey,2,0
+3/6/20,New Jersey,4,0
+3/7/20,New Jersey,4,0
+3/8/20,New Jersey,6,0
+3/9/20,New Jersey,11,0
+3/10/20,New Jersey,15,1
+3/11/20,New Jersey,23,1
+3/12/20,New Jersey,29,1
+3/13/20,New Jersey,50,1
+3/14/20,New Jersey,75,2
+3/15/20,New Jersey,98,2
+3/16/20,New Jersey,176,3
+3/17/20,New Jersey,268,3
+3/18/20,New Jersey,427,5
+3/19/20,New Jersey,735,9
+3/20/20,New Jersey,896,11
+3/21/20,New Jersey,1336,16
+3/22/20,New Jersey,1914,20
+3/23/20,New Jersey,2844,27
+3/24/20,New Jersey,3675,44
+3/25/20,New Jersey,4402,62
+3/26/20,New Jersey,6876,81
+3/27/20,New Jersey,8825,108
+3/28/20,New Jersey,11124,140
+3/29/20,New Jersey,13386,161
+3/30/20,New Jersey,16636,199
+3/31/20,New Jersey,18696,267
+4/1/20,New Jersey,22255,355
+4/2/20,New Jersey,25590,539
+4/3/20,New Jersey,29895,647
+4/4/20,New Jersey,34124,847
+4/5/20,New Jersey,37505,917
+4/6/20,New Jersey,41090,1005
+3/11/20,New Mexico,4,0
+3/12/20,New Mexico,6,0
+3/13/20,New Mexico,10,0
+3/14/20,New Mexico,13,0
+3/15/20,New Mexico,17,0
+3/16/20,New Mexico,21,0
+3/17/20,New Mexico,23,0
+3/18/20,New Mexico,28,0
+3/19/20,New Mexico,35,0
+3/20/20,New Mexico,43,0
+3/21/20,New Mexico,57,0
+3/22/20,New Mexico,65,0
+3/23/20,New Mexico,83,0
+3/24/20,New Mexico,100,0
+3/25/20,New Mexico,112,1
+3/26/20,New Mexico,136,1
+3/27/20,New Mexico,191,1
+3/28/20,New Mexico,208,2
+3/29/20,New Mexico,237,2
+3/30/20,New Mexico,281,4
+3/31/20,New Mexico,315,5
+4/1/20,New Mexico,363,6
+4/2/20,New Mexico,403,7
+4/3/20,New Mexico,495,10
+4/4/20,New Mexico,543,11
+4/5/20,New Mexico,624,12
+4/6/20,New Mexico,686,12
+3/3/20,North Carolina,1,0
+3/4/20,North Carolina,1,0
+3/5/20,North Carolina,1,0
+3/6/20,North Carolina,2,0
+3/7/20,North Carolina,2,0
+3/8/20,North Carolina,2,0
+3/9/20,North Carolina,7,0
+3/10/20,North Carolina,7,0
+3/11/20,North Carolina,8,0
+3/12/20,North Carolina,16,0
+3/13/20,North Carolina,18,0
+3/14/20,North Carolina,25,0
+3/15/20,North Carolina,32,0
+3/16/20,North Carolina,34,0
+3/17/20,North Carolina,42,0
+3/18/20,North Carolina,66,0
+3/19/20,North Carolina,104,0
+3/20/20,North Carolina,144,0
+3/21/20,North Carolina,184,0
+3/22/20,North Carolina,269,0
+3/23/20,North Carolina,303,0
+3/24/20,North Carolina,399,0
+3/25/20,North Carolina,563,1
+3/26/20,North Carolina,638,2
+3/27/20,North Carolina,783,3
+3/28/20,North Carolina,972,4
+3/29/20,North Carolina,1167,6
+3/30/20,North Carolina,1304,6
+3/31/20,North Carolina,1528,10
+4/1/20,North Carolina,1582,11
+4/2/20,North Carolina,1857,17
+4/3/20,North Carolina,2093,19
+4/4/20,North Carolina,2402,30
+4/5/20,North Carolina,2585,37
+4/6/20,North Carolina,2870,40
+3/11/20,North Dakota,1,0
+3/12/20,North Dakota,1,0
+3/13/20,North Dakota,1,0
+3/14/20,North Dakota,1,0
+3/15/20,North Dakota,1,0
+3/16/20,North Dakota,1,0
+3/17/20,North Dakota,5,0
+3/18/20,North Dakota,7,0
+3/19/20,North Dakota,19,0
+3/20/20,North Dakota,27,0
+3/21/20,North Dakota,28,0
+3/22/20,North Dakota,30,0
+3/23/20,North Dakota,32,0
+3/24/20,North Dakota,36,0
+3/25/20,North Dakota,45,0
+3/26/20,North Dakota,58,0
+3/27/20,North Dakota,68,1
+3/28/20,North Dakota,94,1
+3/29/20,North Dakota,98,1
+3/30/20,North Dakota,109,3
+3/31/20,North Dakota,126,3
+4/1/20,North Dakota,147,3
+4/2/20,North Dakota,159,3
+4/3/20,North Dakota,173,3
+4/4/20,North Dakota,186,3
+4/5/20,North Dakota,207,3
+4/6/20,North Dakota,225,3
+3/28/20,Northern Mariana Islands,2,0
+3/29/20,Northern Mariana Islands,2,0
+3/30/20,Northern Mariana Islands,2,0
+3/31/20,Northern Mariana Islands,2,0
+4/1/20,Northern Mariana Islands,6,1
+4/2/20,Northern Mariana Islands,8,1
+4/3/20,Northern Mariana Islands,8,1
+4/4/20,Northern Mariana Islands,8,1
+4/5/20,Northern Mariana Islands,8,1
+4/6/20,Northern Mariana Islands,8,1
+3/9/20,Ohio,3,0
+3/10/20,Ohio,3,0
+3/11/20,Ohio,4,0
+3/12/20,Ohio,5,0
+3/13/20,Ohio,13,0
+3/14/20,Ohio,26,0
+3/15/20,Ohio,37,0
+3/16/20,Ohio,50,0
+3/17/20,Ohio,67,0
+3/18/20,Ohio,90,0
+3/19/20,Ohio,120,0
+3/20/20,Ohio,169,1
+3/21/20,Ohio,247,3
+3/22/20,Ohio,351,3
+3/23/20,Ohio,444,6
+3/24/20,Ohio,564,8
+3/25/20,Ohio,706,11
+3/26/20,Ohio,867,15
+3/27/20,Ohio,1144,22
+3/28/20,Ohio,1406,25
+3/29/20,Ohio,1665,30
+3/30/20,Ohio,1933,40
+3/31/20,Ohio,2199,55
+4/1/20,Ohio,2547,65
+4/2/20,Ohio,2902,81
+4/3/20,Ohio,3312,91
+4/4/20,Ohio,3739,102
+4/5/20,Ohio,4043,119
+4/6/20,Ohio,4450,142
+3/6/20,Oklahoma,1,0
+3/7/20,Oklahoma,1,0
+3/8/20,Oklahoma,1,0
+3/9/20,Oklahoma,1,0
+3/10/20,Oklahoma,2,0
+3/11/20,Oklahoma,2,0
+3/12/20,Oklahoma,2,0
+3/13/20,Oklahoma,3,0
+3/14/20,Oklahoma,4,0
+3/15/20,Oklahoma,8,0
+3/16/20,Oklahoma,10,0
+3/17/20,Oklahoma,18,0
+3/18/20,Oklahoma,29,0
+3/19/20,Oklahoma,44,1
+3/20/20,Oklahoma,49,1
+3/21/20,Oklahoma,53,1
+3/22/20,Oklahoma,67,2
+3/23/20,Oklahoma,81,2
+3/24/20,Oklahoma,106,3
+3/25/20,Oklahoma,164,5
+3/26/20,Oklahoma,248,7
+3/27/20,Oklahoma,322,8
+3/28/20,Oklahoma,377,15
+3/29/20,Oklahoma,429,16
+3/30/20,Oklahoma,481,17
+3/31/20,Oklahoma,566,23
+4/1/20,Oklahoma,719,30
+4/2/20,Oklahoma,879,34
+4/3/20,Oklahoma,988,38
+4/4/20,Oklahoma,1159,42
+4/5/20,Oklahoma,1252,46
+4/6/20,Oklahoma,1327,51
+3/1/20,Oregon,2,0
+3/2/20,Oregon,2,0
+3/3/20,Oregon,2,0
+3/4/20,Oregon,2,0
+3/5/20,Oregon,2,0
+3/6/20,Oregon,2,0
+3/7/20,Oregon,6,0
+3/8/20,Oregon,13,0
+3/9/20,Oregon,13,0
+3/10/20,Oregon,14,0
+3/11/20,Oregon,20,0
+3/12/20,Oregon,30,0
+3/13/20,Oregon,30,0
+3/14/20,Oregon,36,1
+3/15/20,Oregon,39,1
+3/16/20,Oregon,46,1
+3/17/20,Oregon,66,2
+3/18/20,Oregon,74,3
+3/19/20,Oregon,87,3
+3/20/20,Oregon,114,3
+3/21/20,Oregon,137,4
+3/22/20,Oregon,161,5
+3/23/20,Oregon,191,5
+3/24/20,Oregon,209,8
+3/25/20,Oregon,266,10
+3/26/20,Oregon,316,11
+3/27/20,Oregon,414,12
+3/28/20,Oregon,479,13
+3/29/20,Oregon,548,13
+3/30/20,Oregon,606,16
+3/31/20,Oregon,690,18
+4/1/20,Oregon,736,19
+4/2/20,Oregon,826,21
+4/3/20,Oregon,899,22
+4/4/20,Oregon,999,26
+4/5/20,Oregon,1068,27
+4/6/20,Oregon,1132,29
+3/6/20,Pennsylvania,2,0
+3/7/20,Pennsylvania,4,0
+3/8/20,Pennsylvania,6,0
+3/9/20,Pennsylvania,10,0
+3/10/20,Pennsylvania,12,0
+3/11/20,Pennsylvania,16,0
+3/12/20,Pennsylvania,22,0
+3/13/20,Pennsylvania,41,0
+3/14/20,Pennsylvania,47,0
+3/15/20,Pennsylvania,68,0
+3/16/20,Pennsylvania,81,0
+3/17/20,Pennsylvania,101,0
+3/18/20,Pennsylvania,139,1
+3/19/20,Pennsylvania,187,1
+3/20/20,Pennsylvania,269,1
+3/21/20,Pennsylvania,388,2
+3/22/20,Pennsylvania,504,3
+3/23/20,Pennsylvania,644,6
+3/24/20,Pennsylvania,851,7
+3/25/20,Pennsylvania,1151,11
+3/26/20,Pennsylvania,1690,16
+3/27/20,Pennsylvania,2218,23
+3/28/20,Pennsylvania,2815,35
+3/29/20,Pennsylvania,3441,40
+3/30/20,Pennsylvania,4156,48
+3/31/20,Pennsylvania,4997,72
+4/1/20,Pennsylvania,5805,74
+4/2/20,Pennsylvania,7016,90
+4/3/20,Pennsylvania,8420,102
+4/4/20,Pennsylvania,10109,139
+4/5/20,Pennsylvania,11589,159
+4/6/20,Pennsylvania,13074,169
+3/13/20,Puerto Rico,3,0
+3/14/20,Puerto Rico,4,0
+3/15/20,Puerto Rico,5,0
+3/16/20,Puerto Rico,5,0
+3/17/20,Puerto Rico,5,0
+3/18/20,Puerto Rico,5,0
+3/19/20,Puerto Rico,6,0
+3/20/20,Puerto Rico,14,0
+3/21/20,Puerto Rico,21,1
+3/22/20,Puerto Rico,23,1
+3/23/20,Puerto Rico,31,2
+3/24/20,Puerto Rico,39,2
+3/25/20,Puerto Rico,51,2
+3/26/20,Puerto Rico,64,2
+3/27/20,Puerto Rico,79,3
+3/28/20,Puerto Rico,100,3
+3/29/20,Puerto Rico,127,5
+3/30/20,Puerto Rico,174,6
+3/31/20,Puerto Rico,239,8
+4/1/20,Puerto Rico,286,11
+4/2/20,Puerto Rico,316,12
+4/3/20,Puerto Rico,378,15
+4/4/20,Puerto Rico,452,18
+4/5/20,Puerto Rico,475,20
+4/6/20,Puerto Rico,513,21
+3/1/20,Rhode Island,2,0
+3/2/20,Rhode Island,2,0
+3/3/20,Rhode Island,2,0
+3/4/20,Rhode Island,2,0
+3/5/20,Rhode Island,2,0
+3/6/20,Rhode Island,3,0
+3/7/20,Rhode Island,3,0
+3/8/20,Rhode Island,3,0
+3/9/20,Rhode Island,3,0
+3/10/20,Rhode Island,5,0
+3/11/20,Rhode Island,5,0
+3/12/20,Rhode Island,5,0
+3/13/20,Rhode Island,20,0
+3/14/20,Rhode Island,20,0
+3/15/20,Rhode Island,20,0
+3/16/20,Rhode Island,21,0
+3/17/20,Rhode Island,23,0
+3/18/20,Rhode Island,33,0
+3/19/20,Rhode Island,44,0
+3/20/20,Rhode Island,44,0
+3/21/20,Rhode Island,66,0
+3/22/20,Rhode Island,83,0
+3/23/20,Rhode Island,106,0
+3/24/20,Rhode Island,124,0
+3/25/20,Rhode Island,132,0
+3/26/20,Rhode Island,165,0
+3/27/20,Rhode Island,203,0
+3/28/20,Rhode Island,239,2
+3/29/20,Rhode Island,294,3
+3/30/20,Rhode Island,408,4
+3/31/20,Rhode Island,488,8
+4/1/20,Rhode Island,566,10
+4/2/20,Rhode Island,657,12
+4/3/20,Rhode Island,711,14
+4/4/20,Rhode Island,806,17
+4/5/20,Rhode Island,922,25
+4/6/20,Rhode Island,1082,27
+3/6/20,South Carolina,2,0
+3/7/20,South Carolina,2,0
+3/8/20,South Carolina,6,0
+3/9/20,South Carolina,7,0
+3/10/20,South Carolina,9,0
+3/11/20,South Carolina,10,0
+3/12/20,South Carolina,12,0
+3/13/20,South Carolina,13,0
+3/14/20,South Carolina,19,0
+3/15/20,South Carolina,28,0
+3/16/20,South Carolina,33,1
+3/17/20,South Carolina,47,1
+3/18/20,South Carolina,60,1
+3/19/20,South Carolina,81,1
+3/20/20,South Carolina,126,3
+3/21/20,South Carolina,172,3
+3/22/20,South Carolina,194,3
+3/23/20,South Carolina,299,5
+3/24/20,South Carolina,342,7
+3/25/20,South Carolina,424,7
+3/26/20,South Carolina,456,9
+3/27/20,South Carolina,539,13
+3/28/20,South Carolina,660,15
+3/29/20,South Carolina,774,16
+3/30/20,South Carolina,925,18
+3/31/20,South Carolina,1083,22
+4/1/20,South Carolina,1293,26
+4/2/20,South Carolina,1554,31
+4/3/20,South Carolina,1700,34
+4/4/20,South Carolina,1917,40
+4/5/20,South Carolina,2049,44
+4/6/20,South Carolina,2232,48
+3/10/20,South Dakota,5,1
+3/11/20,South Dakota,8,1
+3/12/20,South Dakota,8,1
+3/13/20,South Dakota,9,1
+3/14/20,South Dakota,9,1
+3/15/20,South Dakota,9,1
+3/16/20,South Dakota,10,1
+3/17/20,South Dakota,11,1
+3/18/20,South Dakota,11,1
+3/19/20,South Dakota,14,1
+3/20/20,South Dakota,14,1
+3/21/20,South Dakota,14,1
+3/22/20,South Dakota,21,1
+3/23/20,South Dakota,28,1
+3/24/20,South Dakota,30,1
+3/25/20,South Dakota,41,1
+3/26/20,South Dakota,46,1
+3/27/20,South Dakota,58,1
+3/28/20,South Dakota,68,1
+3/29/20,South Dakota,90,1
+3/30/20,South Dakota,101,1
+3/31/20,South Dakota,108,1
+4/1/20,South Dakota,129,2
+4/2/20,South Dakota,165,2
+4/3/20,South Dakota,187,2
+4/4/20,South Dakota,212,2
+4/5/20,South Dakota,240,2
+4/6/20,South Dakota,288,4
+3/5/20,Tennessee,1,0
+3/6/20,Tennessee,1,0
+3/7/20,Tennessee,1,0
+3/8/20,Tennessee,3,0
+3/9/20,Tennessee,4,0
+3/10/20,Tennessee,7,0
+3/11/20,Tennessee,8,0
+3/12/20,Tennessee,18,0
+3/13/20,Tennessee,26,0
+3/14/20,Tennessee,32,0
+3/15/20,Tennessee,39,0
+3/16/20,Tennessee,52,0
+3/17/20,Tennessee,73,0
+3/18/20,Tennessee,98,0
+3/19/20,Tennessee,155,0
+3/20/20,Tennessee,237,0
+3/21/20,Tennessee,312,2
+3/22/20,Tennessee,424,2
+3/23/20,Tennessee,522,2
+3/24/20,Tennessee,679,2
+3/25/20,Tennessee,806,3
+3/26/20,Tennessee,981,3
+3/27/20,Tennessee,1180,6
+3/28/20,Tennessee,1364,6
+3/29/20,Tennessee,1570,7
+3/30/20,Tennessee,1721,13
+3/31/20,Tennessee,2049,13
+4/1/20,Tennessee,2690,23
+4/2/20,Tennessee,2869,32
+4/3/20,Tennessee,3032,36
+4/4/20,Tennessee,3265,47
+4/5/20,Tennessee,3538,50
+4/6/20,Tennessee,3753,65
+3/1/20,Texas,11,0
+3/2/20,Texas,11,0
+3/3/20,Texas,11,0
+3/4/20,Texas,12,0
+3/5/20,Texas,16,0
+3/6/20,Texas,19,0
+3/7/20,Texas,19,0
+3/8/20,Texas,23,0
+3/9/20,Texas,24,0
+3/10/20,Texas,31,0
+3/11/20,Texas,33,0
+3/12/20,Texas,41,0
+3/13/20,Texas,58,0
+3/14/20,Texas,69,0
+3/15/20,Texas,80,0
+3/16/20,Texas,87,1
+3/17/20,Texas,106,1
+3/18/20,Texas,166,2
+3/19/20,Texas,248,4
+3/20/20,Texas,377,5
+3/21/20,Texas,547,5
+3/22/20,Texas,632,7
+3/23/20,Texas,728,7
+3/24/20,Texas,857,11
+3/25/20,Texas,1119,12
+3/26/20,Texas,1543,21
+3/27/20,Texas,1942,23
+3/28/20,Texas,2161,29
+3/29/20,Texas,2712,35
+3/30/20,Texas,3043,46
+3/31/20,Texas,3576,57
+4/1/20,Texas,4261,63
+4/2/20,Texas,4880,79
+4/3/20,Texas,5669,97
+4/4/20,Texas,6566,124
+4/5/20,Texas,7094,137
+4/6/20,Texas,8115,160
+3/1/20,Utah,1,0
+3/2/20,Utah,1,0
+3/3/20,Utah,1,0
+3/4/20,Utah,1,0
+3/5/20,Utah,1,0
+3/6/20,Utah,3,0
+3/7/20,Utah,3,0
+3/8/20,Utah,3,0
+3/9/20,Utah,3,0
+3/10/20,Utah,4,0
+3/11/20,Utah,5,0
+3/12/20,Utah,7,0
+3/13/20,Utah,7,0
+3/14/20,Utah,21,0
+3/15/20,Utah,29,0
+3/16/20,Utah,40,0
+3/17/20,Utah,51,0
+3/18/20,Utah,65,0
+3/19/20,Utah,80,0
+3/20/20,Utah,112,0
+3/21/20,Utah,138,0
+3/22/20,Utah,182,1
+3/23/20,Utah,257,1
+3/24/20,Utah,298,1
+3/25/20,Utah,346,1
+3/26/20,Utah,402,1
+3/27/20,Utah,480,2
+3/28/20,Utah,608,2
+3/29/20,Utah,719,2
+3/30/20,Utah,806,4
+3/31/20,Utah,887,5
+4/1/20,Utah,1012,7
+4/2/20,Utah,1074,7
+4/3/20,Utah,1260,7
+4/4/20,Utah,1428,8
+4/5/20,Utah,1605,8
+4/6/20,Utah,1675,13
+3/7/20,Vermont,1,0
+3/8/20,Vermont,1,0
+3/9/20,Vermont,1,0
+3/10/20,Vermont,1,0
+3/11/20,Vermont,2,0
+3/12/20,Vermont,2,0
+3/13/20,Vermont,2,0
+3/14/20,Vermont,5,0
+3/15/20,Vermont,8,0
+3/16/20,Vermont,12,0
+3/17/20,Vermont,14,0
+3/18/20,Vermont,19,0
+3/19/20,Vermont,22,2
+3/20/20,Vermont,29,2
+3/21/20,Vermont,49,2
+3/22/20,Vermont,52,2
+3/23/20,Vermont,75,2
+3/24/20,Vermont,95,7
+3/25/20,Vermont,123,8
+3/26/20,Vermont,158,9
+3/27/20,Vermont,184,10
+3/28/20,Vermont,211,12
+3/29/20,Vermont,235,12
+3/30/20,Vermont,256,12
+3/31/20,Vermont,293,13
+4/1/20,Vermont,321,16
+4/2/20,Vermont,338,17
+4/3/20,Vermont,389,17
+4/4/20,Vermont,461,20
+4/5/20,Vermont,512,22
+4/6/20,Vermont,543,23
+3/14/20,Virgin Islands,1,0
+3/15/20,Virgin Islands,1,0
+3/16/20,Virgin Islands,2,0
+3/17/20,Virgin Islands,2,0
+3/18/20,Virgin Islands,3,0
+3/19/20,Virgin Islands,3,0
+3/20/20,Virgin Islands,6,0
+3/21/20,Virgin Islands,6,0
+3/22/20,Virgin Islands,17,0
+3/23/20,Virgin Islands,17,0
+3/24/20,Virgin Islands,17,0
+3/25/20,Virgin Islands,17,0
+3/26/20,Virgin Islands,17,0
+3/27/20,Virgin Islands,19,0
+3/28/20,Virgin Islands,19,0
+3/29/20,Virgin Islands,23,0
+3/30/20,Virgin Islands,30,0
+3/31/20,Virgin Islands,30,0
+4/1/20,Virgin Islands,30,0
+4/2/20,Virgin Islands,37,0
+4/3/20,Virgin Islands,38,0
+4/4/20,Virgin Islands,42,0
+4/5/20,Virgin Islands,42,0
+4/6/20,Virgin Islands,43,1
+3/7/20,Virginia,1,0
+3/8/20,Virginia,2,0
+3/9/20,Virginia,5,0
+3/10/20,Virginia,8,0
+3/11/20,Virginia,10,0
+3/12/20,Virginia,17,0
+3/13/20,Virginia,30,0
+3/14/20,Virginia,42,1
+3/15/20,Virginia,45,1
+3/16/20,Virginia,51,1
+3/17/20,Virginia,67,2
+3/18/20,Virginia,78,2
+3/19/20,Virginia,94,2
+3/20/20,Virginia,115,2
+3/21/20,Virginia,152,3
+3/22/20,Virginia,219,6
+3/23/20,Virginia,254,6
+3/24/20,Virginia,290,7
+3/25/20,Virginia,391,9
+3/26/20,Virginia,604,14
+3/27/20,Virginia,606,14
+3/28/20,Virginia,740,17
+3/29/20,Virginia,890,22
+3/30/20,Virginia,1021,26
+3/31/20,Virginia,1250,27
+4/1/20,Virginia,1511,34
+4/2/20,Virginia,1706,41
+4/3/20,Virginia,2012,46
+4/4/20,Virginia,2407,52
+4/5/20,Virginia,2637,52
+4/6/20,Virginia,2878,54
+3/1/20,Washington,17,3
+3/2/20,Washington,23,6
+3/3/20,Washington,32,10
+3/4/20,Washington,47,11
+3/5/20,Washington,75,11
+3/6/20,Washington,86,12
+3/7/20,Washington,110,16
+3/8/20,Washington,141,19
+3/9/20,Washington,179,22
+3/10/20,Washington,279,24
+3/11/20,Washington,338,29
+3/12/20,Washington,419,32
+3/13/20,Washington,511,37
+3/14/20,Washington,609,40
+3/15/20,Washington,675,42
+3/16/20,Washington,794,48
+3/17/20,Washington,908,54
+3/18/20,Washington,1026,68
+3/19/20,Washington,1228,75
+3/20/20,Washington,1404,83
+3/21/20,Washington,1655,95
+3/22/20,Washington,1844,97
+3/23/20,Washington,2101,110
+3/24/20,Washington,2469,123
+3/25/20,Washington,2585,130
+3/26/20,Washington,3208,151
+3/27/20,Washington,3770,177
+3/28/20,Washington,4311,191
+3/29/20,Washington,4896,207
+3/30/20,Washington,5179,221
+3/31/20,Washington,5292,226
+4/1/20,Washington,5588,249
+4/2/20,Washington,6585,272
+4/3/20,Washington,6966,293
+4/4/20,Washington,7498,318
+4/5/20,Washington,7984,344
+4/6/20,Washington,8384,383
+3/17/20,West Virginia,1,0
+3/18/20,West Virginia,2,0
+3/19/20,West Virginia,5,0
+3/20/20,West Virginia,8,0
+3/21/20,West Virginia,12,0
+3/22/20,West Virginia,16,0
+3/23/20,West Virginia,16,0
+3/24/20,West Virginia,39,0
+3/25/20,West Virginia,51,0
+3/26/20,West Virginia,76,0
+3/27/20,West Virginia,96,0
+3/28/20,West Virginia,113,0
+3/29/20,West Virginia,124,1
+3/30/20,West Virginia,145,1
+3/31/20,West Virginia,162,1
+4/1/20,West Virginia,191,2
+4/2/20,West Virginia,217,2
+4/3/20,West Virginia,242,2
+4/4/20,West Virginia,282,2
+4/5/20,West Virginia,324,3
+4/6/20,West Virginia,345,4
+3/1/20,Wisconsin,1,0
+3/2/20,Wisconsin,1,0
+3/3/20,Wisconsin,1,0
+3/4/20,Wisconsin,1,0
+3/5/20,Wisconsin,1,0
+3/6/20,Wisconsin,1,0
+3/7/20,Wisconsin,1,0
+3/8/20,Wisconsin,1,0
+3/9/20,Wisconsin,2,0
+3/10/20,Wisconsin,3,0
+3/11/20,Wisconsin,6,0
+3/12/20,Wisconsin,8,0
+3/13/20,Wisconsin,19,0
+3/14/20,Wisconsin,27,0
+3/15/20,Wisconsin,33,0
+3/16/20,Wisconsin,47,0
+3/17/20,Wisconsin,72,0
+3/18/20,Wisconsin,106,0
+3/19/20,Wisconsin,155,2
+3/20/20,Wisconsin,216,3
+3/21/20,Wisconsin,281,4
+3/22/20,Wisconsin,382,4
+3/23/20,Wisconsin,418,5
+3/24/20,Wisconsin,481,5
+3/25/20,Wisconsin,623,7
+3/26/20,Wisconsin,754,10
+3/27/20,Wisconsin,930,16
+3/28/20,Wisconsin,1042,17
+3/29/20,Wisconsin,1120,17
+3/30/20,Wisconsin,1267,20
+3/31/20,Wisconsin,1351,25
+4/1/20,Wisconsin,1550,33
+4/2/20,Wisconsin,1730,37
+4/3/20,Wisconsin,1916,49
+4/4/20,Wisconsin,2112,60
+4/5/20,Wisconsin,2267,73
+4/6/20,Wisconsin,2440,83
+3/11/20,Wyoming,1,0
+3/12/20,Wyoming,1,0
+3/13/20,Wyoming,2,0
+3/14/20,Wyoming,3,0
+3/15/20,Wyoming,3,0
+3/16/20,Wyoming,10,0
+3/17/20,Wyoming,15,0
+3/18/20,Wyoming,17,0
+3/19/20,Wyoming,18,0
+3/20/20,Wyoming,22,0
+3/21/20,Wyoming,24,0
+3/22/20,Wyoming,26,0
+3/23/20,Wyoming,28,0
+3/24/20,Wyoming,37,0
+3/25/20,Wyoming,49,0
+3/26/20,Wyoming,56,0
+3/27/20,Wyoming,73,0
+3/28/20,Wyoming,84,0
+3/29/20,Wyoming,87,0
+3/30/20,Wyoming,95,0
+3/31/20,Wyoming,120,0
+4/1/20,Wyoming,137,0
+4/2/20,Wyoming,153,0
+4/3/20,Wyoming,166,0
+4/4/20,Wyoming,187,0
+4/5/20,Wyoming,200,0
+4/6/20,Wyoming,212,0
