@@ -86,12 +86,12 @@
           "field": "state"
         },
         "text": {
-          "condition": {
-            "type": "quantitative",
-            "field": "cases",
-            "selection": "tooltip"
-          },
-          "value": " "
+            "condition": {
+              "type": "quantitative",
+              "field": "cases",
+              "selection": "tooltip"
+            },
+            "value": " "
         },
         "x": {
           "type": "temporal",
