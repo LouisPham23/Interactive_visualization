@@ -1,4 +1,3 @@
-
-
-let data = d3.csvParse(csvData);
-console.log(data);
+let data = d3.csv("./data/us-states.csv").then(function (data) {
+  console.log(data);
+});
