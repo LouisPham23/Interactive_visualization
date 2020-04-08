@@ -11,7 +11,7 @@
     }
   },
   "width": 2000,
-  "height": 1000,
+  "height": 1200,
   "layer": [
     {
       "mark": "line",
@@ -46,12 +46,14 @@
         "x": {
           "type": "temporal",
           "field": "date",
-          "title": "Date"
+          "title": "Date",
+          "scale": { "domain": ["03/01/2020", "04/06/2020"] }
         },
         "y": {
           "type": "quantitative",
           "field": "deaths",
-          "title": "Deaths"
+          "title": "Deaths",
+          "scale": { "domain": [0, 1000] }
         }
       }
     },
@@ -74,6 +76,10 @@
           "fields": ["date"],
           "empty": "none",
           "resolve": "global"
+        },
+        "grid": {
+          "type": "interval",
+          "bind": "scales"
         }
       }
     },
