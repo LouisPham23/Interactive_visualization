@@ -1,6 +1,8 @@
 {
-  "$schema": "https://vega.github.io/schema/vega-lite/v2.json",
-  "title": "United States COVID 19 Confirmed Cases",
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "title": {
+    "text": "United States COVID 19 Confirmed Cases"
+  },
   "data": {
     "url": "states-vega.csv",
     "format": {
@@ -23,7 +25,7 @@
         },
         "y": {
           "type": "quantitative",
-          "field": "cases"
+          "field": "deaths"
         }
       }
     },
@@ -50,30 +52,6 @@
       }
     },
     {
-      "mark": "point",
-      "encoding": {
-        "color": {
-          "type": "nominal",
-          "field": "state"
-        },
-        "opacity": {
-          "condition": {
-            "selection": "tooltip",
-            "value": 1
-          },
-          "value": 0
-        },
-        "x": {
-          "type": "temporal",
-          "field": "date"
-        },
-        "y": {
-          "type": "quantitative",
-          "field": "cases"
-        }
-      }
-    },
-    {
       "mark": {
         "type": "text",
         "align": "left",
@@ -88,7 +66,7 @@
         "text": {
           "condition": {
             "type": "quantitative",
-            "field": "cases",
+            "field": "deaths",
             "selection": "tooltip"
           },
           "value": " "
@@ -98,8 +76,8 @@
           "field": "date"
         },
         "y": {
-          "type": "temporal",
-          "field": "cases"
+          "type": "quantitative",
+          "field": "deaths"
         }
       }
     }
