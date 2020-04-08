@@ -72,6 +72,36 @@
           "field": "cases"
         }
       }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "dx": 5,
+        "dy": -5
+      },
+      "encoding": {
+        "color": {
+          "type": "nominal",
+          "field": "state"
+        },
+        "text": {
+          "condition": {
+            "type": "quantitative",
+            "field": "cases",
+            "selection": "tooltip"
+          },
+          "value": " "
+        },
+        "x": {
+          "type": "temporal",
+          "field": "date"
+        },
+        "y": {
+          "type": "temporal",
+          "field": "cases"
+        }
+      }
     }
   ]
 }
