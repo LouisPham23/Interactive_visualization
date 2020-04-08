@@ -20,6 +20,17 @@
 <script src="https://d3js.org/topojson.v2.min.js"></script>
 <script>
 
+
+// const width = "960";
+// const height = "600";
+// var zoom = d3.zoom()
+//     .scaleExtent([1,8])
+//     .on("zoom",zoomed);
+
+// var svg = d3.create("svg")
+//     .attr("viewBox", [0, 0, width, height])
+//     .on("click", reset);
+
 var svg = d3.select("svg");
 
 var path = d3.geoPath();
@@ -29,9 +40,9 @@ d3.json("https://d3js.org/us-10m.v1.json", function(error, us) {
 
   svg.append("g")
       .attr("class", "states")
-    .selectAll("path")
-    .data(topojson.feature(us, us.objects.states).features)
-    .enter().append("path")
+      .selectAll("path")
+      .data(topojson.feature(us, us.objects.states).features)
+      .enter().append("path")
       .attr("d", path);
 
   svg.append("path")
