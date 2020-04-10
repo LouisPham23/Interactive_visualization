@@ -4,6 +4,7 @@
   <script src="https://cdn.jsdelivr.net/npm/vega@3"></script>
   <script src="https://cdn.jsdelivr.net/npm/vega-lite@2"></script>
   <script src="https://cdn.jsdelivr.net/npm/vega-embed@3"></script>
+  <link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet">
   <style>
     body {
       font-family: sans-serif;
@@ -15,7 +16,79 @@
   </style>
 </head>
 
+<!--A rationale for your design decisions. How did you choose your particular visual encodings and interaction techniques? 
+
+What alternatives did you consider and how did you arrive at your ultimate choices?
+
+
+
+An overview of your development process. 
+Describe how the work was split among the team members. 
+Include a commentary on the development process, including answers to the following questions: 
+Roughly how much time did you spend developing your application (in people-hours)? What aspects took the most time? 
+-->
+
 <body>
+  <h1 class="text-3xl font-bold text-center py-8">Covid 19 Death Rate Per State</h1>
+  <div class="pb-8 px-8">
+    <div class="pt-4">
+      <h2 class="text-2xl font-semibold pb-2">Rationale for design decisions</h2>
+      <div class="text-lg text-gray-600 leading-loose">
+        <p>We chose overlapping line graphs because it would be best to show quantitative data and how it rises over time. </p>
+        <p>We also wanted to be able to see a snapshot 
+          of all the states for a single day. So our interactive design included hovering over a certain date and the number of deaths for each state being displayed. 
+        </p>
+
+        <p>The visual encoding we chose were state as nominal, date as temporal and deaths was quantitative. </p>
+        <p>We chose state as nominal because states are simply labels of each category. This is what we want to categorize our data as. </p>
+        <p>We chose deaths as quantiative because it is a measured quantity that we want to compare for different states.</p>
+        <p>We chose date as temporal becuase </p>
+      </div>
+    </div>
+
+    <div class="pt-4">
+      <h2 class="text-2xl font-semibold">Alternatives</h2>
+      <div class="text-gray-600">
+        <p>Initially we considered doing a heat map of the United States.</p>
+      </div>
+    </div>
+
+    <div class="pt-4">
+    <h2 class="text-2xl font-semibold">Development process</h2>
+    <ol>
+      <li class="py-2">
+      <h1 class="text-sm font-semibold">
+        Louis Pham:
+      </h1>
+      
+      <p>Creating the initial visualization so that everyone can start editing.</p>
+          <p>Set up GIT and host visualization on Netlify.</p>
+          <p>
+      </li>
+      <li class="py-2">
+      <h1 class="text-sm font-semibold">
+        Austin Wilson:
+      </h1>
+      <p>
+        In charge or EDA and data preprocessing. <br/>
+        A lot of the initial data was not useful. <br/>
+        We found that the data before March for most of the states was not insightful. <br/>
+        We first looked at the data from January through April. Many of the states did not have data recorded for before March. <br/>
+        Possibly because the virus was not as widespread in Many states. <br/>
+        We
+      </p>
+      </li>
+      <li class="py-2">
+      <h1 class="text-sm font-semibold">
+        Isaac Shah
+      </h1>
+      <p>Edit axis and colors designs.
+      </p>
+      
+    </ol>
+    </div>
+  </div>
+
   <div id="vis"></div>
 
   <script>
