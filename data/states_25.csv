@@ -1,0 +1,634 @@
+date,state,cases,deaths
+3/1/20,Nebraska,13,0
+3/1/20,Utah,1,0
+3/2/20,Nebraska,13,0
+3/2/20,New Hampshire,1,0
+3/2/20,Utah,1,0
+3/3/20,Nebraska,13,0
+3/3/20,New Hampshire,2,0
+3/3/20,Utah,1,0
+3/4/20,Nebraska,13,0
+3/4/20,New Hampshire,2,0
+3/4/20,Utah,1,0
+3/5/20,Nebraska,13,0
+3/5/20,New Hampshire,2,0
+3/5/20,Utah,1,0
+3/6/20,Hawaii,1,0
+3/6/20,Nebraska,14,0
+3/6/20,New Hampshire,2,0
+3/6/20,Utah,3,0
+3/7/20,District of Columbia,1,0
+3/7/20,Hawaii,1,0
+3/7/20,Kansas,1,0
+3/7/20,Nebraska,14,0
+3/7/20,New Hampshire,4,0
+3/7/20,Utah,3,0
+3/7/20,Vermont,1,0
+3/8/20,District of Columbia,1,0
+3/8/20,Hawaii,2,0
+3/8/20,Iowa,3,0
+3/8/20,Kansas,1,0
+3/8/20,Nebraska,16,0
+3/8/20,New Hampshire,4,0
+3/8/20,Utah,3,0
+3/8/20,Vermont,1,0
+3/9/20,District of Columbia,4,0
+3/9/20,Hawaii,2,0
+3/9/20,Iowa,8,0
+3/9/20,Kansas,1,0
+3/9/20,Nebraska,16,0
+3/9/20,New Hampshire,4,0
+3/9/20,Utah,3,0
+3/9/20,Vermont,1,0
+3/10/20,District of Columbia,4,0
+3/10/20,Hawaii,2,0
+3/10/20,Iowa,13,0
+3/10/20,Kansas,1,0
+3/10/20,Nebraska,17,0
+3/10/20,New Hampshire,5,0
+3/10/20,South Dakota,5,1
+3/10/20,Utah,4,0
+3/10/20,Vermont,1,0
+3/11/20,Arkansas,1,0
+3/11/20,Delaware,1,0
+3/11/20,District of Columbia,10,0
+3/11/20,Hawaii,2,0
+3/11/20,Iowa,14,0
+3/11/20,Kansas,1,0
+3/11/20,Nebraska,23,0
+3/11/20,New Hampshire,5,0
+3/11/20,New Mexico,4,0
+3/11/20,North Dakota,1,0
+3/11/20,South Dakota,8,1
+3/11/20,Utah,5,0
+3/11/20,Vermont,2,0
+3/11/20,Wyoming,1,0
+3/12/20,Alaska,1,0
+3/12/20,Arkansas,6,0
+3/12/20,Delaware,4,0
+3/12/20,District of Columbia,10,0
+3/12/20,Hawaii,2,0
+3/12/20,Iowa,16,0
+3/12/20,Kansas,5,1
+3/12/20,Maine,1,0
+3/12/20,Nebraska,24,0
+3/12/20,New Hampshire,6,0
+3/12/20,New Mexico,6,0
+3/12/20,North Dakota,1,0
+3/12/20,South Dakota,8,1
+3/12/20,Utah,7,0
+3/12/20,Vermont,2,0
+3/12/20,Wyoming,1,0
+3/13/20,Alaska,1,0
+3/13/20,Arkansas,7,0
+3/13/20,Delaware,4,0
+3/13/20,District of Columbia,10,0
+3/13/20,Hawaii,2,0
+3/13/20,Idaho,1,0
+3/13/20,Iowa,17,0
+3/13/20,Kansas,6,1
+3/13/20,Maine,2,0
+3/13/20,Montana,4,0
+3/13/20,Nebraska,27,0
+3/13/20,New Hampshire,7,0
+3/13/20,New Mexico,10,0
+3/13/20,North Dakota,1,0
+3/13/20,Puerto Rico,3,0
+3/13/20,South Dakota,9,1
+3/13/20,Utah,7,0
+3/13/20,Vermont,2,0
+3/13/20,Wyoming,2,0
+3/14/20,Alaska,1,0
+3/14/20,Arkansas,9,0
+3/14/20,Delaware,4,0
+3/14/20,District of Columbia,16,0
+3/14/20,Hawaii,4,0
+3/14/20,Idaho,5,0
+3/14/20,Iowa,18,0
+3/14/20,Kansas,8,1
+3/14/20,Maine,3,0
+3/14/20,Montana,6,0
+3/14/20,Nebraska,29,0
+3/14/20,New Hampshire,7,0
+3/14/20,New Mexico,13,0
+3/14/20,North Dakota,1,0
+3/14/20,Puerto Rico,4,0
+3/14/20,South Dakota,9,1
+3/14/20,Utah,21,0
+3/14/20,Vermont,5,0
+3/14/20,Virgin Islands,1,0
+3/14/20,Wyoming,3,0
+3/15/20,Alaska,1,0
+3/15/20,Arkansas,16,0
+3/15/20,Delaware,7,0
+3/15/20,District of Columbia,17,0
+3/15/20,Guam,3,0
+3/15/20,Hawaii,7,0
+3/15/20,Idaho,5,0
+3/15/20,Iowa,22,0
+3/15/20,Kansas,9,1
+3/15/20,Maine,12,0
+3/15/20,Montana,6,0
+3/15/20,Nebraska,31,0
+3/15/20,New Hampshire,13,0
+3/15/20,New Mexico,17,0
+3/15/20,North Dakota,1,0
+3/15/20,Puerto Rico,5,0
+3/15/20,South Dakota,9,1
+3/15/20,Utah,29,0
+3/15/20,Vermont,8,0
+3/15/20,Virgin Islands,1,0
+3/15/20,Wyoming,3,0
+3/16/20,Alaska,3,0
+3/16/20,Arkansas,22,0
+3/16/20,Delaware,8,0
+3/16/20,District of Columbia,22,0
+3/16/20,Guam,3,0
+3/16/20,Hawaii,10,0
+3/16/20,Idaho,5,0
+3/16/20,Iowa,22,0
+3/16/20,Kansas,11,1
+3/16/20,Maine,17,0
+3/16/20,Montana,8,0
+3/16/20,Nebraska,33,0
+3/16/20,New Hampshire,17,0
+3/16/20,New Mexico,21,0
+3/16/20,North Dakota,1,0
+3/16/20,Puerto Rico,5,0
+3/16/20,South Dakota,10,1
+3/16/20,Utah,40,0
+3/16/20,Vermont,12,0
+3/16/20,Virgin Islands,2,0
+3/16/20,Wyoming,10,0
+3/17/20,Alaska,6,0
+3/17/20,Arkansas,22,0
+3/17/20,Delaware,16,0
+3/17/20,District of Columbia,31,0
+3/17/20,Guam,3,0
+3/17/20,Hawaii,14,0
+3/17/20,Idaho,9,0
+3/17/20,Iowa,29,0
+3/17/20,Kansas,17,1
+3/17/20,Maine,32,0
+3/17/20,Montana,8,0
+3/17/20,Nebraska,36,0
+3/17/20,New Hampshire,26,0
+3/17/20,New Mexico,23,0
+3/17/20,North Dakota,5,0
+3/17/20,Puerto Rico,5,0
+3/17/20,South Dakota,11,1
+3/17/20,Utah,51,0
+3/17/20,Vermont,14,0
+3/17/20,Virgin Islands,2,0
+3/17/20,West Virginia,1,0
+3/17/20,Wyoming,15,0
+3/18/20,Alaska,9,0
+3/18/20,Arkansas,33,0
+3/18/20,Delaware,26,0
+3/18/20,District of Columbia,36,0
+3/18/20,Guam,8,0
+3/18/20,Hawaii,16,0
+3/18/20,Idaho,11,0
+3/18/20,Iowa,38,0
+3/18/20,Kansas,22,1
+3/18/20,Maine,43,0
+3/18/20,Montana,12,0
+3/18/20,Nebraska,43,0
+3/18/20,New Hampshire,39,0
+3/18/20,New Mexico,28,0
+3/18/20,North Dakota,7,0
+3/18/20,Puerto Rico,5,0
+3/18/20,South Dakota,11,1
+3/18/20,Utah,65,0
+3/18/20,Vermont,19,0
+3/18/20,Virgin Islands,3,0
+3/18/20,West Virginia,2,0
+3/18/20,Wyoming,17,0
+3/19/20,Alaska,12,0
+3/19/20,Arkansas,62,0
+3/19/20,Delaware,30,0
+3/19/20,District of Columbia,68,0
+3/19/20,Guam,12,0
+3/19/20,Hawaii,26,0
+3/19/20,Idaho,23,0
+3/19/20,Iowa,44,0
+3/19/20,Kansas,35,1
+3/19/20,Maine,52,0
+3/19/20,Montana,19,0
+3/19/20,Nebraska,47,0
+3/19/20,New Hampshire,44,0
+3/19/20,New Mexico,35,0
+3/19/20,North Dakota,19,0
+3/19/20,Puerto Rico,6,0
+3/19/20,South Dakota,14,1
+3/19/20,Utah,80,0
+3/19/20,Vermont,22,2
+3/19/20,Virgin Islands,3,0
+3/19/20,West Virginia,5,0
+3/19/20,Wyoming,18,0
+3/20/20,Alaska,14,0
+3/20/20,Arkansas,100,0
+3/20/20,Delaware,39,0
+3/20/20,District of Columbia,77,1
+3/20/20,Guam,14,0
+3/20/20,Hawaii,37,0
+3/20/20,Idaho,31,0
+3/20/20,Iowa,45,0
+3/20/20,Kansas,49,1
+3/20/20,Maine,57,0
+3/20/20,Montana,19,0
+3/20/20,Nebraska,53,0
+3/20/20,New Hampshire,55,0
+3/20/20,New Mexico,43,0
+3/20/20,North Dakota,27,0
+3/20/20,Puerto Rico,14,0
+3/20/20,South Dakota,14,1
+3/20/20,Utah,112,0
+3/20/20,Vermont,29,2
+3/20/20,Virgin Islands,6,0
+3/20/20,West Virginia,8,0
+3/20/20,Wyoming,22,0
+3/21/20,Alaska,21,0
+3/21/20,Arkansas,118,0
+3/21/20,Delaware,45,0
+3/21/20,District of Columbia,98,1
+3/21/20,Guam,15,0
+3/21/20,Hawaii,48,0
+3/21/20,Idaho,42,0
+3/21/20,Iowa,68,0
+3/21/20,Kansas,57,2
+3/21/20,Maine,70,0
+3/21/20,Montana,29,0
+3/21/20,Nebraska,61,0
+3/21/20,New Hampshire,65,0
+3/21/20,New Mexico,57,0
+3/21/20,North Dakota,28,0
+3/21/20,Puerto Rico,21,1
+3/21/20,South Dakota,14,1
+3/21/20,Utah,138,0
+3/21/20,Vermont,49,2
+3/21/20,Virgin Islands,6,0
+3/21/20,West Virginia,12,0
+3/21/20,Wyoming,24,0
+3/22/20,Alaska,22,0
+3/22/20,Arkansas,165,0
+3/22/20,Delaware,56,0
+3/22/20,District of Columbia,116,2
+3/22/20,Guam,27,1
+3/22/20,Hawaii,56,0
+3/22/20,Idaho,47,0
+3/22/20,Iowa,90,0
+3/22/20,Kansas,66,2
+3/22/20,Maine,89,0
+3/22/20,Montana,34,0
+3/22/20,Nebraska,62,0
+3/22/20,New Hampshire,78,0
+3/22/20,New Mexico,65,0
+3/22/20,North Dakota,30,0
+3/22/20,Puerto Rico,23,1
+3/22/20,South Dakota,21,1
+3/22/20,Utah,182,1
+3/22/20,Vermont,52,2
+3/22/20,Virgin Islands,17,0
+3/22/20,West Virginia,16,0
+3/22/20,Wyoming,26,0
+3/23/20,Alaska,36,0
+3/23/20,Arkansas,201,0
+3/23/20,Delaware,87,0
+3/23/20,District of Columbia,138,2
+3/23/20,Guam,29,1
+3/23/20,Hawaii,77,0
+3/23/20,Idaho,50,0
+3/23/20,Iowa,105,0
+3/23/20,Kansas,82,2
+3/23/20,Maine,107,0
+3/23/20,Montana,45,0
+3/23/20,Nebraska,73,0
+3/23/20,New Hampshire,101,1
+3/23/20,New Mexico,83,0
+3/23/20,North Dakota,32,0
+3/23/20,Puerto Rico,31,2
+3/23/20,South Dakota,28,1
+3/23/20,Utah,257,1
+3/23/20,Vermont,75,2
+3/23/20,Virgin Islands,17,0
+3/23/20,West Virginia,16,0
+3/23/20,Wyoming,28,0
+3/24/20,Alaska,42,0
+3/24/20,Arkansas,232,2
+3/24/20,Delaware,104,0
+3/24/20,District of Columbia,183,2
+3/24/20,Guam,32,1
+3/24/20,Hawaii,90,0
+3/24/20,Idaho,73,0
+3/24/20,Iowa,124,1
+3/24/20,Kansas,99,3
+3/24/20,Maine,118,0
+3/24/20,Montana,51,0
+3/24/20,Nebraska,77,0
+3/24/20,New Hampshire,108,1
+3/24/20,New Mexico,100,0
+3/24/20,North Dakota,36,0
+3/24/20,Puerto Rico,39,2
+3/24/20,South Dakota,30,1
+3/24/20,Utah,298,1
+3/24/20,Vermont,95,7
+3/24/20,Virgin Islands,17,0
+3/24/20,West Virginia,39,0
+3/24/20,Wyoming,37,0
+3/25/20,Alaska,59,0
+3/25/20,Arkansas,308,2
+3/25/20,Delaware,119,0
+3/25/20,District of Columbia,231,3
+3/25/20,Guam,32,1
+3/25/20,Hawaii,95,0
+3/25/20,Idaho,123,0
+3/25/20,Iowa,145,1
+3/25/20,Kansas,132,3
+3/25/20,Maine,142,0
+3/25/20,Montana,65,0
+3/25/20,Nebraska,84,0
+3/25/20,New Hampshire,137,1
+3/25/20,New Mexico,112,1
+3/25/20,North Dakota,45,0
+3/25/20,Puerto Rico,51,2
+3/25/20,South Dakota,41,1
+3/25/20,Utah,346,1
+3/25/20,Vermont,123,8
+3/25/20,Virgin Islands,17,0
+3/25/20,West Virginia,51,0
+3/25/20,Wyoming,49,0
+3/26/20,Alaska,69,0
+3/26/20,Arkansas,351,3
+3/26/20,Delaware,143,1
+3/26/20,District of Columbia,267,3
+3/26/20,Guam,49,1
+3/26/20,Hawaii,106,0
+3/26/20,Idaho,189,3
+3/26/20,Iowa,179,1
+3/26/20,Kansas,171,3
+3/26/20,Maine,155,0
+3/26/20,Montana,90,0
+3/26/20,Nebraska,92,0
+3/26/20,New Hampshire,158,1
+3/26/20,New Mexico,136,1
+3/26/20,North Dakota,58,0
+3/26/20,Puerto Rico,64,2
+3/26/20,South Dakota,46,1
+3/26/20,Utah,402,1
+3/26/20,Vermont,158,9
+3/26/20,Virgin Islands,17,0
+3/26/20,West Virginia,76,0
+3/26/20,Wyoming,56,0
+3/27/20,Alaska,85,1
+3/27/20,Arkansas,386,3
+3/27/20,Delaware,165,2
+3/27/20,District of Columbia,304,4
+3/27/20,Guam,53,1
+3/27/20,Hawaii,120,0
+3/27/20,Idaho,231,4
+3/27/20,Iowa,235,3
+3/27/20,Kansas,212,4
+3/27/20,Maine,168,1
+3/27/20,Montana,121,1
+3/27/20,Nebraska,100,2
+3/27/20,New Hampshire,187,2
+3/27/20,New Mexico,191,1
+3/27/20,North Dakota,68,1
+3/27/20,Puerto Rico,79,3
+3/27/20,South Dakota,58,1
+3/27/20,Utah,480,2
+3/27/20,Vermont,184,10
+3/27/20,Virgin Islands,19,0
+3/27/20,West Virginia,96,0
+3/27/20,Wyoming,73,0
+3/28/20,Alaska,102,1
+3/28/20,Arkansas,409,5
+3/28/20,Delaware,214,5
+3/28/20,District of Columbia,342,4
+3/28/20,Guam,57,1
+3/28/20,Hawaii,151,0
+3/28/20,Idaho,261,5
+3/28/20,Iowa,298,3
+3/28/20,Kansas,271,6
+3/28/20,Maine,211,1
+3/28/20,Montana,147,1
+3/28/20,Nebraska,122,2
+3/28/20,New Hampshire,214,2
+3/28/20,New Mexico,208,2
+3/28/20,North Dakota,94,1
+3/28/20,Northern Mariana Islands,2,0
+3/28/20,Puerto Rico,100,3
+3/28/20,South Dakota,68,1
+3/28/20,Utah,608,2
+3/28/20,Vermont,211,12
+3/28/20,Virgin Islands,19,0
+3/28/20,West Virginia,113,0
+3/28/20,Wyoming,84,0
+3/29/20,Alaska,114,1
+3/29/20,Arkansas,449,6
+3/29/20,Delaware,232,6
+3/29/20,District of Columbia,342,4
+3/29/20,Guam,58,1
+3/29/20,Hawaii,175,0
+3/29/20,Idaho,310,6
+3/29/20,Iowa,336,4
+3/29/20,Kansas,332,7
+3/29/20,Maine,253,3
+3/29/20,Montana,161,1
+3/29/20,Nebraska,137,2
+3/29/20,New Hampshire,258,3
+3/29/20,New Mexico,237,2
+3/29/20,North Dakota,98,1
+3/29/20,Northern Mariana Islands,2,0
+3/29/20,Puerto Rico,127,5
+3/29/20,South Dakota,90,1
+3/29/20,Utah,719,2
+3/29/20,Vermont,235,12
+3/29/20,Virgin Islands,23,0
+3/29/20,West Virginia,124,1
+3/29/20,Wyoming,87,0
+3/30/20,Alaska,119,2
+3/30/20,Arkansas,508,7
+3/30/20,Delaware,264,7
+3/30/20,District of Columbia,495,9
+3/30/20,Guam,60,1
+3/30/20,Hawaii,204,0
+3/30/20,Idaho,415,7
+3/30/20,Iowa,424,6
+3/30/20,Kansas,373,9
+3/30/20,Maine,275,3
+3/30/20,Montana,177,4
+3/30/20,Nebraska,185,3
+3/30/20,New Hampshire,314,3
+3/30/20,New Mexico,281,4
+3/30/20,North Dakota,109,3
+3/30/20,Northern Mariana Islands,2,0
+3/30/20,Puerto Rico,174,6
+3/30/20,South Dakota,101,1
+3/30/20,Utah,806,4
+3/30/20,Vermont,256,12
+3/30/20,Virgin Islands,30,0
+3/30/20,West Virginia,145,1
+3/30/20,Wyoming,95,0
+3/31/20,Alaska,133,2
+3/31/20,Arkansas,564,8
+3/31/20,Delaware,319,10
+3/31/20,District of Columbia,495,9
+3/31/20,Guam,139,2
+3/31/20,Hawaii,224,1
+3/31/20,Idaho,526,9
+3/31/20,Iowa,498,7
+3/31/20,Kansas,434,10
+3/31/20,Maine,303,5
+3/31/20,Montana,198,5
+3/31/20,Nebraska,193,4
+3/31/20,New Hampshire,367,3
+3/31/20,New Mexico,315,5
+3/31/20,North Dakota,126,3
+3/31/20,Northern Mariana Islands,2,0
+3/31/20,Puerto Rico,239,8
+3/31/20,South Dakota,108,1
+3/31/20,Utah,887,5
+3/31/20,Vermont,293,13
+3/31/20,Virgin Islands,30,0
+3/31/20,West Virginia,162,1
+3/31/20,Wyoming,120,0
+4/1/20,Alaska,143,2
+4/1/20,Arkansas,624,10
+4/1/20,Delaware,368,11
+4/1/20,District of Columbia,586,11
+4/1/20,Guam,147,3
+4/1/20,Hawaii,258,1
+4/1/20,Idaho,669,9
+4/1/20,Iowa,549,9
+4/1/20,Kansas,488,11
+4/1/20,Maine,344,7
+4/1/20,Montana,217,5
+4/1/20,Nebraska,249,5
+4/1/20,New Hampshire,415,4
+4/1/20,New Mexico,363,6
+4/1/20,North Dakota,147,3
+4/1/20,Northern Mariana Islands,6,1
+4/1/20,Puerto Rico,286,11
+4/1/20,South Dakota,129,2
+4/1/20,Utah,1012,7
+4/1/20,Vermont,321,16
+4/1/20,Virgin Islands,30,0
+4/1/20,West Virginia,191,2
+4/1/20,Wyoming,137,0
+4/2/20,Alaska,146,2
+4/2/20,Arkansas,683,12
+4/2/20,Delaware,393,12
+4/2/20,District of Columbia,653,12
+4/2/20,Guam,152,3
+4/2/20,Hawaii,283,2
+4/2/20,Idaho,891,9
+4/2/20,Iowa,614,11
+4/2/20,Kansas,554,14
+4/2/20,Maine,376,7
+4/2/20,Montana,241,5
+4/2/20,Nebraska,273,6
+4/2/20,New Hampshire,479,5
+4/2/20,New Mexico,403,7
+4/2/20,North Dakota,159,3
+4/2/20,Northern Mariana Islands,8,1
+4/2/20,Puerto Rico,316,12
+4/2/20,South Dakota,165,2
+4/2/20,Utah,1074,7
+4/2/20,Vermont,338,17
+4/2/20,Virgin Islands,37,0
+4/2/20,West Virginia,217,2
+4/2/20,Wyoming,153,0
+4/3/20,Alaska,156,2
+4/3/20,Arkansas,738,12
+4/3/20,Delaware,450,14
+4/3/20,District of Columbia,757,15
+4/3/20,Guam,154,4
+4/3/20,Hawaii,317,3
+4/3/20,Idaho,1013,10
+4/3/20,Iowa,699,11
+4/3/20,Kansas,624,19
+4/3/20,Maine,432,9
+4/3/20,Montana,262,5
+4/3/20,Nebraska,296,6
+4/3/20,New Hampshire,540,7
+4/3/20,New Mexico,495,10
+4/3/20,North Dakota,173,3
+4/3/20,Northern Mariana Islands,8,1
+4/3/20,Puerto Rico,378,15
+4/3/20,South Dakota,187,2
+4/3/20,Utah,1260,7
+4/3/20,Vermont,389,17
+4/3/20,Virgin Islands,38,0
+4/3/20,West Virginia,242,2
+4/3/20,Wyoming,166,0
+4/4/20,Alaska,169,3
+4/4/20,Arkansas,743,14
+4/4/20,Delaware,593,14
+4/4/20,District of Columbia,902,21
+4/4/20,Guam,223,4
+4/4/20,Hawaii,349,3
+4/4/20,Idaho,1077,10
+4/4/20,Iowa,786,11
+4/4/20,Kansas,701,21
+4/4/20,Maine,456,10
+4/4/20,Montana,281,6
+4/4/20,Nebraska,339,8
+4/4/20,New Hampshire,621,9
+4/4/20,New Mexico,543,11
+4/4/20,North Dakota,186,3
+4/4/20,Northern Mariana Islands,8,1
+4/4/20,Puerto Rico,452,18
+4/4/20,South Dakota,212,2
+4/4/20,Utah,1428,8
+4/4/20,Vermont,461,20
+4/4/20,Virgin Islands,42,0
+4/4/20,West Virginia,282,2
+4/4/20,Wyoming,187,0
+4/5/20,Alaska,185,4
+4/5/20,Arkansas,853,16
+4/5/20,Delaware,673,14
+4/5/20,District of Columbia,998,22
+4/5/20,Guam,265,4
+4/5/20,Hawaii,369,4
+4/5/20,Idaho,1101,10
+4/5/20,Iowa,868,22
+4/5/20,Kansas,763,23
+4/5/20,Maine,470,10
+4/5/20,Montana,298,6
+4/5/20,Nebraska,377,8
+4/5/20,New Hampshire,669,9
+4/5/20,New Mexico,624,12
+4/5/20,North Dakota,207,3
+4/5/20,Northern Mariana Islands,8,1
+4/5/20,Puerto Rico,475,20
+4/5/20,South Dakota,240,2
+4/5/20,Utah,1605,8
+4/5/20,Vermont,512,22
+4/5/20,Virgin Islands,42,0
+4/5/20,West Virginia,324,3
+4/5/20,Wyoming,200,0
+4/6/20,Alaska,189,4
+4/6/20,Arkansas,927,16
+4/6/20,Delaware,783,15
+4/6/20,District of Columbia,1097,24
+4/6/20,Guam,266,4
+4/6/20,Hawaii,385,5
+4/6/20,Idaho,1170,13
+4/6/20,Iowa,946,25
+4/6/20,Kansas,853,25
+4/6/20,Maine,499,10
+4/6/20,Montana,319,6
+4/6/20,Nebraska,438,10
+4/6/20,New Hampshire,715,9
+4/6/20,New Mexico,686,12
+4/6/20,North Dakota,225,3
+4/6/20,Northern Mariana Islands,8,1
+4/6/20,Puerto Rico,513,21
+4/6/20,South Dakota,288,4
+4/6/20,Utah,1675,13
+4/6/20,Vermont,543,23
+4/6/20,Virgin Islands,43,1
+4/6/20,West Virginia,345,4
+4/6/20,Wyoming,212,0

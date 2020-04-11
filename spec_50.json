@@ -1,0 +1,117 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "title": {
+    "text": "United States COVID 19 Confirmed Cases"
+  },
+  "data": {
+    "url": "data/states_50.csv",
+    "format": {
+      "type": "csv"
+    }
+  },
+  "width": 1080,
+  "height": 900,
+  "layer": [
+    {
+      "mark": "line",
+      "encoding": {
+        "color": {
+          "type": "nominal",
+          "field": "state",
+          "scale": {
+            "range": [
+              "#3C2E3F",
+              "#717957",
+              "#C38B39",
+              "#D8B324",
+              "#DF812A",
+              "#23486C",
+              "#73A0CD",
+              "#52A5CB",
+              "#92C6E9",
+              "#D7DBE4",
+              "#762A7E",
+              "#141026",
+              "#9E1538",
+              "#D64B62",
+              "#637E56",
+              "#EFD05F",
+              "#E29C52",
+              "#AD553A",
+              "#3E392A"
+            ]
+          }
+        },
+        "x": {
+          "type": "temporal",
+          "field": "date",
+          "title": "Date",
+          "labelFontSize": 40,
+          "scale": { "domain": ["03/01/2020", "04/06/2020"] }
+        },
+        "y": {
+          "type": "quantitative",
+          "field": "deaths",
+          "title": "Deaths",
+          "scale": { "domain": [0, 1000] }
+        }
+      }
+    },
+    {
+      "mark": "point",
+      "encoding": {
+        "opacity": {
+          "value": 0
+        },
+        "x": {
+          "type": "temporal",
+          "field": "date"
+        }
+      },
+      "selection": {
+        "tooltip": {
+          "type": "single",
+          "nearest": true,
+          "on": "mouseover",
+          "fields": ["date"],
+          "empty": "none",
+          "resolve": "global"
+        },
+        "grid": {
+          "type": "interval",
+          "bind": "scales"
+        }
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "dx": 5,
+        "dy": -5
+      },
+      "encoding": {
+        "color": {
+          "type": "nominal",
+          "field": "state"
+        },
+        "text": {
+          "condition": {
+            "type": "quantitative",
+            "field": "deaths",
+            "selection": "tooltip"
+          },
+          "value": " "
+        },
+        "x": {
+          "type": "temporal",
+          "field": "date"
+        },
+        "y": {
+          "type": "quantitative",
+          "field": "deaths"
+        }
+      }
+    }
+  ]
+}

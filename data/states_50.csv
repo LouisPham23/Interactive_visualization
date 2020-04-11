@@ -1,0 +1,174 @@
+date,state,cases,deaths
+3/1/20,Oregon,2,0
+3/1/20,Rhode Island,2,0
+3/2/20,Oregon,2,0
+3/2/20,Rhode Island,2,0
+3/3/20,North Carolina,1,0
+3/3/20,Oregon,2,0
+3/3/20,Rhode Island,2,0
+3/4/20,North Carolina,1,0
+3/4/20,Oregon,2,0
+3/4/20,Rhode Island,2,0
+3/5/20,North Carolina,1,0
+3/5/20,Oregon,2,0
+3/5/20,Rhode Island,2,0
+3/6/20,Minnesota,1,0
+3/6/20,North Carolina,2,0
+3/6/20,Oregon,2,0
+3/6/20,Rhode Island,3,0
+3/6/20,South Carolina,2,0
+3/7/20,Minnesota,1,0
+3/7/20,North Carolina,2,0
+3/7/20,Oregon,6,0
+3/7/20,Rhode Island,3,0
+3/7/20,South Carolina,2,0
+3/8/20,Minnesota,2,0
+3/8/20,North Carolina,2,0
+3/8/20,Oregon,13,0
+3/8/20,Rhode Island,3,0
+3/8/20,South Carolina,6,0
+3/9/20,Minnesota,2,0
+3/9/20,North Carolina,7,0
+3/9/20,Oregon,13,0
+3/9/20,Rhode Island,3,0
+3/9/20,South Carolina,7,0
+3/10/20,Minnesota,3,0
+3/10/20,North Carolina,7,0
+3/10/20,Oregon,14,0
+3/10/20,Rhode Island,5,0
+3/10/20,South Carolina,9,0
+3/11/20,Minnesota,5,0
+3/11/20,North Carolina,8,0
+3/11/20,Oregon,20,0
+3/11/20,Rhode Island,5,0
+3/11/20,South Carolina,10,0
+3/12/20,Minnesota,9,0
+3/12/20,North Carolina,16,0
+3/12/20,Oregon,30,0
+3/12/20,Rhode Island,5,0
+3/12/20,South Carolina,12,0
+3/13/20,Minnesota,14,0
+3/13/20,North Carolina,18,0
+3/13/20,Oregon,30,0
+3/13/20,Rhode Island,20,0
+3/13/20,South Carolina,13,0
+3/14/20,Minnesota,21,0
+3/14/20,North Carolina,25,0
+3/14/20,Oregon,36,1
+3/14/20,Rhode Island,20,0
+3/14/20,South Carolina,19,0
+3/15/20,Minnesota,35,0
+3/15/20,North Carolina,32,0
+3/15/20,Oregon,39,1
+3/15/20,Rhode Island,20,0
+3/15/20,South Carolina,28,0
+3/16/20,Minnesota,54,0
+3/16/20,North Carolina,34,0
+3/16/20,Oregon,46,1
+3/16/20,Rhode Island,21,0
+3/16/20,South Carolina,33,1
+3/17/20,Minnesota,60,0
+3/17/20,North Carolina,42,0
+3/17/20,Oregon,66,2
+3/17/20,Rhode Island,23,0
+3/17/20,South Carolina,47,1
+3/18/20,Minnesota,77,0
+3/18/20,North Carolina,66,0
+3/18/20,Oregon,74,3
+3/18/20,Rhode Island,33,0
+3/18/20,South Carolina,60,1
+3/19/20,Minnesota,89,0
+3/19/20,North Carolina,104,0
+3/19/20,Oregon,87,3
+3/19/20,Rhode Island,44,0
+3/19/20,South Carolina,81,1
+3/20/20,Minnesota,115,0
+3/20/20,North Carolina,144,0
+3/20/20,Oregon,114,3
+3/20/20,Rhode Island,44,0
+3/20/20,South Carolina,126,3
+3/21/20,Minnesota,138,1
+3/21/20,North Carolina,184,0
+3/21/20,Oregon,137,4
+3/21/20,Rhode Island,66,0
+3/21/20,South Carolina,172,3
+3/22/20,Minnesota,171,1
+3/22/20,North Carolina,269,0
+3/22/20,Oregon,161,5
+3/22/20,Rhode Island,83,0
+3/22/20,South Carolina,194,3
+3/23/20,Minnesota,235,1
+3/23/20,North Carolina,303,0
+3/23/20,Oregon,191,5
+3/23/20,Rhode Island,106,0
+3/23/20,South Carolina,299,5
+3/24/20,Minnesota,262,1
+3/24/20,North Carolina,399,0
+3/24/20,Oregon,209,8
+3/24/20,Rhode Island,124,0
+3/24/20,South Carolina,342,7
+3/25/20,Minnesota,287,1
+3/25/20,North Carolina,563,1
+3/25/20,Oregon,266,10
+3/25/20,Rhode Island,132,0
+3/25/20,South Carolina,424,7
+3/26/20,Minnesota,346,2
+3/26/20,North Carolina,638,2
+3/26/20,Oregon,316,11
+3/26/20,Rhode Island,165,0
+3/26/20,South Carolina,456,9
+3/27/20,Minnesota,398,4
+3/27/20,North Carolina,783,3
+3/27/20,Oregon,414,12
+3/27/20,Rhode Island,203,0
+3/27/20,South Carolina,539,13
+3/28/20,Minnesota,441,5
+3/28/20,North Carolina,972,4
+3/28/20,Oregon,479,13
+3/28/20,Rhode Island,239,2
+3/28/20,South Carolina,660,15
+3/29/20,Minnesota,504,9
+3/29/20,North Carolina,1167,6
+3/29/20,Oregon,548,13
+3/29/20,Rhode Island,294,3
+3/29/20,South Carolina,774,16
+3/30/20,Minnesota,576,10
+3/30/20,North Carolina,1304,6
+3/30/20,Oregon,606,16
+3/30/20,Rhode Island,408,4
+3/30/20,South Carolina,925,18
+3/31/20,Minnesota,629,12
+3/31/20,North Carolina,1528,10
+3/31/20,Oregon,690,18
+3/31/20,Rhode Island,488,8
+3/31/20,South Carolina,1083,22
+4/1/20,Minnesota,689,17
+4/1/20,North Carolina,1582,11
+4/1/20,Oregon,736,19
+4/1/20,Rhode Island,566,10
+4/1/20,South Carolina,1293,26
+4/2/20,Minnesota,742,18
+4/2/20,North Carolina,1857,17
+4/2/20,Oregon,826,21
+4/2/20,Rhode Island,657,12
+4/2/20,South Carolina,1554,31
+4/3/20,Minnesota,789,22
+4/3/20,North Carolina,2093,19
+4/3/20,Oregon,899,22
+4/3/20,Rhode Island,711,14
+4/3/20,South Carolina,1700,34
+4/4/20,Minnesota,865,24
+4/4/20,North Carolina,2402,30
+4/4/20,Oregon,999,26
+4/4/20,Rhode Island,806,17
+4/4/20,South Carolina,1917,40
+4/5/20,Minnesota,935,29
+4/5/20,North Carolina,2585,37
+4/5/20,Oregon,1068,27
+4/5/20,Rhode Island,922,25
+4/5/20,South Carolina,2049,44
+4/6/20,Minnesota,986,30
+4/6/20,North Carolina,2870,40
+4/6/20,Oregon,1132,29
+4/6/20,Rhode Island,1082,27
+4/6/20,South Carolina,2232,48
