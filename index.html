@@ -4,7 +4,10 @@
   <script src="https://cdn.jsdelivr.net/npm/vega@3"></script>
   <script src="https://cdn.jsdelivr.net/npm/vega-lite@2"></script>
   <script src="https://cdn.jsdelivr.net/npm/vega-embed@3"></script>
-  <link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet">
+  <link
+    href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css"
+    rel="stylesheet"
+  />
   <style>
     body {
       font-family: sans-serif;
@@ -28,68 +31,103 @@ Include a commentary on the development process, including answers to the follow
 Roughly how much time did you spend developing your application (in people-hours)? What aspects took the most time? 
 -->
 
-<body>
-  <h1 class="text-3xl font-bold text-center py-8">Covid 19 Death Rate Per State</h1>
-  <div class="pb-8 px-8">
+<body class="bg-gray-100">
+  <h1 class="text-3xl font-bold text-center py-8 bg-teal-600 text-gray-900">
+    Covid 19 Death Rate Per State
+  </h1>
+  <div class="px-8 bg-white mx-8 my-8 py-4 rounded-lg">
     <div class="pt-4">
-      <h2 class="text-2xl font-semibold pb-2">Rationale for design decisions</h2>
-      <div class="text-lg text-gray-600 leading-loose">
-        <p>We chose overlapping line graphs because it would be best to show quantitative data and how it rises over time. </p>
-        <p>We also wanted to be able to see a snapshot 
-          of all the states for a single day. So our interactive design included hovering over a certain date and the number of deaths for each state being displayed. 
+      <h2 class="text-2xl font-semibold">
+        Rationale for design decisions
+      </h2>
+      <div class="text-lg text-gray-600 leading-relaxed">
+        <p>
+          We chose overlapping line graphs because it would be best to show
+          quantitative data and how it rises over time.
+        </p>
+        <p>
+          We also wanted to be able to see a snapshot of all the states for a
+          single day. So our interactive design included hovering over a certain
+          date and the number of deaths for each state being displayed.
         </p>
 
-        <p>The visual encoding we chose were state as nominal, date as temporal and deaths was quantitative. </p>
-        <p>We chose state as nominal because states are simply labels of each category. This is what we want to categorize our data as. </p>
-        <p>We chose deaths as quantiative because it is a measured quantity that we want to compare for different states.</p>
-        <p>We chose date as temporal becuase the value of the variable is the last assigned value. This is always the case with date. </p>
+        <p>
+          The visual encoding we chose were state as nominal, date as temporal
+          and deaths was quantitative.
+        </p>
+        <p>
+          We chose state as nominal because states are simply labels of each
+          category. This is what we want to categorize our data as.
+        </p>
+        <p>
+          We chose deaths as quantiative because it is a measured quantity that
+          we want to compare for different states.
+        </p>
+        <p>
+          We chose date as temporal becuase the value of the variable is the
+          last assigned value. This is always the case with date.
+        </p>
       </div>
     </div>
 
     <div class="pt-4">
       <h2 class="text-2xl font-semibold">Alternatives</h2>
-      <div class="text-gray-600">
-        <p>Initially we considered doing a heat map of the United States.</p>
+      <div class="text-lg text-gray-600 leading-relaxed pb-2">
+        <p>
+          Initially we considered doing a heat map of the United States but we
+          ran into troubles working with d3 so we went with vega-lite.
+        </p>
       </div>
     </div>
 
     <div class="pt-4">
-    <h2 class="text-2xl font-semibold">Development process</h2>
-    <ol>
-      <li class="py-2">
-      <h1 class="text-sm font-semibold">
-        Louis Pham:
-      </h1>
-      
-      <p>Creating the initial visualization so that everyone can start editing.</p>
-          <p>Set up GIT and host visualization on Netlify.</p>
-          <p>
-      </li>
-      <li class="py-2">
-      <h1 class="text-sm font-semibold">
-        Austin Wilson:
-      </h1>
-      <p>
-        In charge or EDA and data preprocessing. <br/>
-        A lot of the initial data was not useful. <br/>
-        We found that the data before March for most of the states was not insightful. <br/>
-        We first looked at the data from January through April. Many of the states did not have data recorded for before March. <br/>
-        Possibly because the virus was not as widespread in Many states. <br/>
-        We
-      </p>
-      </li>
-      <li class="py-2">
-      <h1 class="text-sm font-semibold">
-        Isaac Shah
-      </h1>
-      <p>Edit axis and colors designs.
-      </p>
-      
-    </ol>
+      <h2 class="text-2xl font-semibold">Development process</h2>
+      <ol>
+        <li class="pb-2">
+          <h1 class="text-lg font-semibold">
+            Louis Pham:
+          </h1>
+          <div class="text-lg text-gray-600 leading-relaxed">
+            <p>
+              Creating the initial visualization so that everyone can start
+              editing.
+            </p>
+            <p>Set up GIT and host visualization on Netlify.</p>
+            <p>Contributed on creating the visualization with interaction.</p>
+          </div>
+        </li>
+
+        <li class="py-2">
+          <h1 class="text-lg font-semibold">
+            Austin Wilson:
+          </h1>
+          <p class="text-lg text-gray-600 leading-relaxed">
+            In charge or EDA and data preprocessing. <br />
+            A lot of the initial data was not useful. <br />
+            We found that the data before March for most of the states was not
+            insightful. <br />
+            We first looked at the data from January through April. Many of the
+            states did not have data recorded for before March. <br />
+            Possibly because the virus was not as widespread in Many states.
+            <br />
+            We
+          </p>
+        </li>
+        <li class="py-2">
+          <h1 class="text-lg font-semibold">
+            Isaac Shah
+          </h1>
+          <p class="text-lg text-gray-600 leading-relaxed">
+            Edit axis and colors designs. <br />
+            Edit html page with css and tailwind Contributed on creating the
+            visualization with interaction.
+          </p>
+        </li>
+      </ol>
     </div>
   </div>
 
-  <div id="vis"></div>
+  <div id="vis" class="mx-8 py-8"></div>
 
   <script>
     const spec = "spec.json";

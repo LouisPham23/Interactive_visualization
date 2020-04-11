@@ -1,8 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "title": {
-    "text": "United States COVID 19 Confirmed Cases",
-    "color": "#f304d3"
+    "text": "United States COVID 19 Confirmed Cases"
   },
   "data": {
     "url": "states-vega.csv",
@@ -47,6 +46,7 @@
           "type": "temporal",
           "field": "date",
           "title": "Date",
+          "labelFontSize": 40,
           "scale": { "domain": ["03/01/2020", "04/06/2020"] }
         },
         "y": {
