@@ -9,8 +9,8 @@
       "type": "csv"
     }
   },
-  "width": 2000,
-  "height": 1200,
+  "width": 1280,
+  "height": 900,
   "layer": [
     {
       "mark": "line",
